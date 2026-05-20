@@ -62,6 +62,8 @@ python server.py results/example_results.json
 - Keyboard shortcuts for navigating between results
 - Progress bar
 
+![Eval Viewer](eval_viewer.png)
+
 ---
 
 ## Changing the Model
