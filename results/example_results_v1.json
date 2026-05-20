@@ -1,0 +1,585 @@
+[
+  {
+    "id": "1",
+    "query": "i need a vegetarian meal that\u2019s Mediterranean and can be made in around 30-60 mins",
+    "response": "## Greek Spinach and Feta Stuffed Pita\n\nA simple, flavorful Mediterranean meal packed with fresh spinach, feta cheese, and aromatic herbs, all wrapped in warm pita bread.\n\n### Ingredients\n* 2 large pita breads\n* 2 cups fresh spinach, chopped\n* 1 cup crumbled feta cheese\n* 1/4 cup chopped fresh parsley\n* 1/4 cup chopped fresh dill\n* 1/2 cup plain yogurt (or vegan alternative)\n* 1/4 cup olive oil\n* 1 tbsp lemon juice\n* Salt and pepper, to taste\n\n### Instructions\n1. Preheat your oven to 350\u00b0F (175\u00b0C).\n2. In a large bowl, mix together the spinach, feta cheese, parsley, dill, yogurt, olive oil, lemon juice, salt, and pepper.\n3. Divide the mixture into two portions and stuff each pita bread half.\n4. Place the stuffed pita in a baking dish and bake for 10\u201315 minutes, or until the pita is warm and the cheese is slightly melted.\n5. Let sit for 2\u20133 minutes before serving.\n\n### Allergen Information\n* Contains dairy (feta cheese and yogurt). Use vegan alternatives if needed.\n\n### Nutrition (Approx per serving)\n\n* Calories: ~320 kcal\n* Protein: ~18 g\n* Carbohydrates: ~20 g\n* Sugars: ~2 g\n* Fiber: ~3 g\n* Fat: ~18 g\n* Sodium: ~300 mg\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Fiber & Micronutrients (Vegetables)**\n* A side of roasted cherry tomatoes or cucumber slices\n* A small bowl of mixed salad with olive oil and lemon dressing\n\n**2. Protein (Optional)**\n* A sprinkle of chickpeas or roasted nuts for extra protein and crunch\n\n**3. Whole Grains**\n* A side of warm quinoa or whole grain rice for added fiber and complex carbs.",
+    "_status": "flag",
+    "_tags": [
+      "incorrect protein estimate",
+      "wrong cooking method"
+    ],
+    "_notes": "Protein may be 14 to 15 g, not 18. \nSounds reasonable as a recipe With respect to flavors .\nPita doesn't stuff the way described: Pita needs to be warmed/slightly opened first to create a pocket. Cold pita tears easily when you try to stuff it. The recipe skips this step entirely.\nYogurt stuffing and then baking doesn't work - turns watery.\nCan't use this recipe, basically. ",
+    "_failure_modes": [
+      "Incorrect Nutrition Estimates",
+      "Wrong Cooking Method",
+      "Missing or Incomplete Steps"
+    ]
+  },
+  {
+    "id": "2",
+    "query": "plz help me find a vegetarian meal that's moderately tricky to make and fits under 1 hour! \ud83d\ude4f Mediterranean cuisine would be great",
+    "response": "## Chickpea and Spinach Stuffed Eggplant (Mediterranean Style)\n\nA flavorful and healthy vegetarian dish from the Mediterranean, combining the earthy sweetness of eggplant with the richness of chickpeas and the freshness of spinach.\n\n### Ingredients\n- 1 medium eggplant (about 1.5 lbs)\n- 1 cup cooked chickpeas (or 1/2 cup canned, drained and rinsed)\n- 1 cup fresh spinach, chopped\n- 1 small onion, finely chopped\n- 2 cloves garlic, minced\n- 1/2 cup grated feta cheese (optional, for non-veg version)\n- 1 tsp olive oil\n- 1 tsp ground cumin\n- 1/2 tsp ground coriander\n- 1/2 tsp paprika\n- Salt and pepper, to taste\n- 1/4 cup plain yogurt (for serving)\n- Fresh parsley, chopped (for garnish)\n\n### Instructions\n1. Preheat oven to 400\u00b0F (200\u00b0C).\n2. Cut the eggplant into 1-inch cubes and place in a baking dish.\n3. Drizzle with olive oil and season with salt and pepper.\n4. Bake for 25\u201330 minutes, or until the eggplant is tender and slightly charred.\n5. In a pan, saut\u00e9 the onion and garlic in a little olive oil until fragrant.\n6. Add the spinach and cook until wilted.\n7. Stir in the chickpeas, cumin, coriander, and paprika. Cook for 2\u20133 minutes.\n8. Once the eggplant is done, remove from the oven and mix in the chickpea-spinach mixture.\n9. If using feta cheese, stir it in gently.\n10. Transfer the mixture back to the baking dish and bake for an additional 10\u201315 minutes, or until everything is hot and bubbly.\n11. Let cool slightly, then serve with a dollop of yogurt and fresh parsley.\n\n### Allergen Information\n- Contains **dairy** (yogurt and feta cheese). For a vegan version, skip the feta and use a non-dairy yogurt or coconut yogurt.\n\n### Notes\n- This recipe is a great way to use up leftover chickpeas or fresh spinach.\n- For a more substantial meal, serve with a side of warm pita bread or a simple quinoa salad.\n\n### Nutrition (Approx per serving, 2 people)\n\n* Calories: ~280 kcal\n* Protein: ~12 g\n* Carbohydrates: ~35 g\n* Sugars: ~2 g\n* Fiber: ~10 g\n* Fat: ~12 g\n* Sodium: ~300 mg\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and satisfying, add:\n\n**1. Protein Boost**\n- A handful of roasted chickpeas or a spoonful of hummus\n- A small portion of cooked quinoa or brown rice\n\n**2. Fiber & Micronutrients**\n- A side of roasted vegetables like zucchini, bell peppers, and cherry tomatoes\n- A simple green salad with olive oil and lemon dressing\n\n**3. Healthy Fats**\n- A drizzle of olive oil or a sprinkle of sesame seeds\n- A few olives or a slice of whole grain pita bread\n\nEnjoy your Mediterranean-inspired vegetarian meal! \ud83c\udf7d\ufe0f",
+    "_status": "done",
+    "_tags": [
+      "wrong oil quantity",
+      "incorrect title"
+    ],
+    "_notes": "title recipe mismatch. Egg plant is cubed, not stuffed. Edible, not many issues. Oil specified is too less, needs more. 1 tsp to be changed to 2-3 tbsp.",
+    "_failure_modes": [
+      "Title or Dish Identity Mismatch",
+      "Incorrect Measurements"
+    ]
+  },
+  {
+    "id": "3",
+    "query": "need nut-free dish using coconut milk and curry fast! \ud83d\ude0b",
+    "response": "## Coconut Curry with Steamed Greens\n\nA quick and creamy vegetarian curry made with coconut milk, perfect for a fast and healthy meal. It's rich, flavorful, and pairs beautifully with steamed greens for a balanced plate.\n\n### Ingredients\n* 1 cup coconut milk (full-fat or light, as per preference)\n* 1 tbsp coconut oil or ghee\n* 1 medium onion, finely chopped\n* 1 green chili, slit (adjust to taste)\n* 1 tsp ginger paste\n* 1 tsp garlic paste\n* 1 tsp cumin seeds\n* 1 tsp garam masala\n* 1 tsp turmeric\n* 1 tsp salt (adjust to taste)\n* 1 cup mixed greens (like spinach, kale, or mustard greens), chopped\n* 1/4 cup chopped peanuts (optional, for crunch, but skip if nut-free)\n\n### Instructions\n1. In a pan, heat the coconut oil or ghee over medium heat.\n2. Add the cumin seeds and let them sizzle for a few seconds.\n3. Add the chopped onion and green chili. Saut\u00e9 until the onion turns golden, about 5 minutes.\n4. Add the ginger and garlic paste. Cook for 1\u20132 minutes until fragrant.\n5. Pour in the coconut milk and bring to a gentle simmer.\n6. Add the turmeric, garam masala, and salt. Stir well and let the curry simmer for 5\u20137 minutes until slightly thickened.\n7. Add the chopped greens and cook for 3\u20134 minutes until wilted and tender.\n8. Serve immediately, optionally garnished with a sprinkle of chopped peanuts (if using).\n\n### Allergen Information\n* This recipe is nut-free if you skip the peanuts. It is also gluten-free and dairy-free.\n\n### Nutrition (Approx per serving for 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~10 g\n* Carbohydrates: ~30 g\n* Sugars: ~5 g\n* Fiber: ~6 g\n* Fat: ~25 g\n* Sodium: ~1,200 mg (adjust based on salt used)\n\n### How to Balance This Plate\n\nTo make this meal more complete and balanced, consider adding:\n\n**1. Protein**\n* A side of boiled chickpeas or a handful of roasted chana dal (split chickpeas).\n* A scoop of paneer cubes (if not nut-free, skip).\n\n**2. Fiber & Micronutrients**\n* A small bowl of steamed broccoli or carrots.\n* A handful of fresh cilantro or mint for extra flavor and nutrients.\n\n**3. Healthy Fats**\n* A drizzle of ghee or a spoonful of roasted chana dal.\n* A small handful of roasted sunflower seeds (optional, if not nut-free).\n\nEnjoy your quick, creamy, and healthy coconut curry with a balanced plate! \ud83d\ude0a",
+    "_status": "done",
+    "_tags": [
+      "incorrect protein estimate",
+      "incomplete - missing veggies"
+    ],
+    "_notes": "wrong nutrition information - protein only about 3-5g, not 10g.\nNo vegetables mentioned, this is a soup not a curry.",
+    "_failure_modes": [
+      "Incorrect Nutrition Estimates",
+      "Missing or Incomplete Steps"
+    ]
+  },
+  {
+    "id": "4",
+    "query": "any high protein meal ideas? i have quinoa, black beans, and avocados and want to make something quick and indian-style",
+    "response": "## Quinoa and Black Bean Veggie Stuffed Peppers\n\nA quick and healthy Indian-style meal packed with protein, using quinoa, black beans, and avocados for a balanced, filling dish.\n\n### Ingredients\n* 1 cup quinoa (uncooked)\n* 1 cup black beans (canned or cooked)\n* 1 cup chopped tomatoes\n* 1/2 cup chopped green chilies (optional, for heat)\n* 1/2 cup chopped coriander leaves\n* 1/2 cup chopped onion\n* 1 tsp cumin\n* 1 tsp garam masala\n* 1 tsp salt\n* 1/4 tsp turmeric\n* 1/2 cup water or vegetable broth\n* 4 small bell peppers (any color), halved\n* 2 ripe avocados, sliced (for serving)\n* 1/4 cup chopped cilantro (for garnish)\n\n### Instructions\n1. Rinse the quinoa and set aside.\n2. In a pot, combine quinoa, black beans, chopped tomatoes, green chilies, coriander, onion, cumin, garam masala, salt, turmeric, and 1/2 cup water or vegetable broth.\n3. Bring to a boil, then reduce heat to low, cover, and let simmer for about 15\u201320 minutes or until the quinoa is tender and the mixture is well combined.\n4. Preheat your oven to 180\u00b0C (350\u00b0F).\n5. Place the halved bell peppers in a baking dish, cut side up.\n6. Spoon the quinoa and bean mixture into the peppers, filling them halfway.\n7. Bake for 25\u201330 minutes, or until the peppers are tender and the filling is hot.\n8. Serve warm, topped with sliced avocados and chopped cilantro.\n\n### Allergen Information\n* No common allergens used in this recipe.\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Protein & Fiber Boost**\n* A handful of roasted chickpeas or soaked and boiled chana (chickpeas) on the side.\n* A small bowl of steamed spinach or kale.\n\n**2. Healthy Fats**\n* A drizzle of olive oil or a spoonful of ghee on top of the peppers.\n* Additional avocado slices or a dollop of mashed avocado.\n\n### Nutrition (Approx per serving, 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~25 g\n* Carbohydrates: ~45 g\n* Sugars: ~5 g\n* Fiber: ~10 g\n* Fat: ~15 g\n* Sodium: ~500 mg (depending on salt used)",
+    "_status": "done",
+    "_tags": [
+      "incorrect protein estimate",
+      "Incorrect water measure",
+      "Query response mismatch"
+    ],
+    "_notes": "- Stuffed peppers are not Indian-style \u2014 dish doesn't match the query\n- Quinoa needs 2 cups water per 1 cup quinoa; only 1/2 cup used here, will be undercooked\n- Cooking quinoa mixed with all ingredients from the start results in uneven, mushy texture \u2014 quinoa should be cooked separately\n- \"Quick\" claim is false \u2014 15-20 min stovetop + 25-30 min baking = ~50 min total\n- 1/2 cup chopped green chilies is an excessive amount \n- Avocado is not an Indian ingredient and is used only as a topping,\n- 25g protein is overstated \u2014 realistic estimate closer to 18-20g\n- Black beans are not commonly used in Indian cooking - dish not Indian as requested",
+    "_failure_modes": [
+      "Query Constraint Violation",
+      "Incorrect Measurements",
+      "Cultural or Authenticity Errors",
+      "Incorrect Nutrition Estimates"
+    ]
+  },
+  {
+    "id": "5",
+    "query": "easy curry with coconut milk and veggies in under 30 mins",
+    "response": "## Coconut Curry with Veggies\n\nA quick and creamy Indian-style curry made with coconut milk, vegetables, and aromatic spices, perfect for a fast and healthy meal.\n\n### Ingredients\n- 1 cup chopped mixed vegetables (carrots, beans, peas, bell peppers)\n- 1 can coconut milk (400 ml)\n- 1 medium onion, chopped\n- 1 green chili, chopped (adjust to taste)\n- 1 tsp ginger, grated\n- 1 tsp garlic, minced\n- 1 tsp turmeric\n- 1 tsp cumin\n- 1 tsp coriander powder\n- 1 tsp garam masala\n- 1 tbsp tomato paste\n- Salt, to taste\n- 1/2 cup water or vegetable broth\n- 1 tbsp oil (like coconut or sunflower)\n\n### Instructions\n1. Heat oil in a pan or pot over medium heat.\n2. Add the chopped onion and saut\u00e9 until golden (about 5 minutes).\n3. Add the green chili, ginger, and garlic. Saut\u00e9 for 1 minute.\n4. Stir in the turmeric, cumin, coriander powder, and garam masala. Cook for 1 minute.\n5. Add the tomato paste and stir well to mix with the spices.\n6. Pour in the coconut milk and add the mixed vegetables. Stir to combine.\n7. Add salt and 1/2 cup water or vegetable broth. Bring to a gentle boil.\n8. Reduce the heat and let it simmer for 10\u201315 minutes, or until the vegetables are tender.\n9. Serve hot, optionally with rice or roti.\n\n### Allergen Information\n- This recipe is free from common allergens like peanuts, tree nuts, and soy.\n\n### Nutrition (Approx per serving for 2 people)\n\n- Calories: ~280 kcal\n- Protein: ~8 g\n- Carbohydrates: ~24 g\n- Sugars: ~4 g\n- Fiber: ~5 g\n- Fat: ~16 g\n- Sodium: ~200 mg (depending on salt)\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein (like lentils or beans)**  \n- A small bowl of cooked lentils or chickpeas on the side.\n\n**2. Whole grains**  \n- Serve with brown rice, quinoa, or whole wheat roti.\n\n**3. Fresh vegetables**  \n- Add a side of steamed broccoli or spinach for extra fiber and vitamins.\n\n**4. Healthy fats**  \n- A drizzle of olive oil or a sprinkle of chopped almonds for added crunch and nutrients.",
+    "_status": "done",
+    "_tags": [
+      "Incorrect oil measure",
+      "inauthentic recipe"
+    ],
+    "_notes": "No need for garam masala. \nNo need for cumin, turmeric, coriander powders. \nNo protein source in the main recipe \u2014 8g protein claim is from vegetables alone and is overstated.\nwhole spices make more sense here.\n",
+    "_failure_modes": [
+      "Cultural or Authenticity Errors",
+      "Missing or Incomplete Steps"
+    ]
+  },
+  {
+    "id": "6",
+    "query": "i need a soy-free, meat-free, egg-free dish that is sophisticated and takes a while to prepare, no specific ingredients in mind, but it should be challenging",
+    "response": "## Braised Eggplant with Cashew Cream and Turmeric Rice\n\nA sophisticated and elegant vegetarian dish that combines the richness of eggplant with the creaminess of cashew cream, served over a fragrant turmeric rice. This dish is slow-cooked and perfect for a special occasion or a cozy dinner.\n\n### Ingredients\n* 1 large eggplant (about 1.5 kg), cut into 1-inch cubes\n* 2 tbsp olive oil\n* 1 medium onion, finely chopped\n* 2 garlic cloves, minced\n* 1 green chili, finely chopped (adjust to taste)\n* 1 tbsp ginger, grated\n* 1 tsp ground turmeric\n* 1 tsp ground cumin\n* 1 tsp ground coriander\n* 1 tsp garam masala\n* 1/2 tsp chili powder (adjust to taste)\n* 1/2 cup plain yogurt\n* 1/2 cup soaked and blended cashews (about 1/2 cup raw cashews)\n* 1/4 cup water (for cashew cream)\n* 1 cup basmati rice, rinsed\n* 1/2 cup water (for rice)\n* Salt, to taste\n* Fresh cilantro, chopped (for garnish)\n\n### Instructions\n1. In a large pot, heat the olive oil over medium heat. Add the onion, garlic, green chili, and ginger. Saut\u00e9 for about 3-4 minutes until the onions turn golden.\n2. Add the turmeric, cumin, coriander, garam masala, and chili powder. Stir well to coat the onions and aromatics.\n3. Add the eggplant cubes and stir to coat with the spices. Cook for about 5 minutes, then add 1 cup of water. Bring to a boil, then reduce the heat to low, cover, and let it simmer for about 25-30 minutes, or until the eggplant is tender.\n4. In a blender, combine the soaked cashews, 1/4 cup water, and a pinch of salt. Blend until smooth. Adjust the consistency with more water if needed.\n5. In a separate pan, cook the basmati rice in 1/2 cup of water according to your rice cooker instructions or on the stovetop. Cook until the rice is tender and the water is absorbed.\n6. Once the eggplant is tender, stir in the yogurt and cashew cream. Cook for about 5 minutes, stirring occasionally, until the mixture is thick and creamy.\n7. Serve the eggplant mixture over the cooked rice, garnished with fresh cilantro.\n\n### Allergen Information\n* This recipe is soy-free, meat-free, and egg-free. It contains tree nuts (cashews), so it is not suitable for those with tree nut allergies.\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~550 kcal\n* Protein: ~12 g\n* Carbohydrates: ~75 g\n* Sugars: ~5 g\n* Fiber: ~10 g\n* Fat: ~25 g\n* Sodium: ~400 mg\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Protein Boost**\n* A side of roasted chickpeas or a small portion of paneer (if not strictly vegan)\n* A handful of roasted almonds or sunflower seeds\n\n**2. Fiber & Micronutrients**\n* A fresh green salad with cucumber, tomato, and lemon dressing\n* Steamed broccoli or green beans\n\n**3. Healthy Fats**\n* A drizzle of olive oil or a sprinkle of chopped nuts\n* A small portion of roasted pumpkin or sweet potato\n\nThis dish is rich in antioxidants, fiber, and healthy fats, making it a sophisticated and satisfying vegetarian meal. Enjoy!",
+    "_status": "done",
+    "_tags": [
+      "incorrect water measure",
+      "incorrect protein estimate",
+      "Query response Mismatch",
+      "Title response mismatch"
+    ],
+    "_notes": "Not sophisticated or challenging \u2014 saut\u00e9ing eggplant and blending cashews is beginner-level cooking\nBraising means slow-cooking in liquid in an oven, typically 2+ hours \u2014 simmering on stovetop for 25-30 minutes is not braising\nRice water ratio is wrong \u2014 1 cup basmati needs 1.5-2 cups water, not 1/2 cup\n\"1 large eggplant (about 1.5 kg)\" - not usually found\n",
+    "_failure_modes": [
+      "Query Constraint Violation",
+      "Wrong Cooking Method",
+      "Incorrect Measurements"
+    ]
+  },
+  {
+    "id": "7",
+    "query": "looking for a fast dish with coconut milk, curry paste and veggies that's dairy free",
+    "response": "## Coconut Curry with Mixed Veggies\n\nA quick and creamy vegetarian curry made with coconut milk and a flavorful curry paste, packed with veggies and perfect for a fast, healthy meal.\n\n### Ingredients\n* 1 cup coconut milk (or canned full-fat coconut milk)\n* 2 tbsp curry paste (store-bought or homemade)\n* 1 medium onion, finely chopped\n* 2 medium carrots, sliced\n* 1 cup green beans, trimmed and cut into 1-inch pieces\n* 1 cup bell peppers (any color), sliced\n* 1 tsp ginger, grated\n* 1 tsp garlic, minced\n* 1 tsp turmeric\n* 1 tsp cumin\n* 1 tsp coriander\n* Salt, to taste\n* 1 tbsp oil (like coconut or sunflower oil)\n* 1 cup cooked rice (for serving)\n\n### Instructions\n1. Heat oil in a pan or large skillet over medium heat.\n2. Add the onion and saut\u00e9 for 2\u20133 minutes until soft.\n3. Add the garlic, ginger, and curry paste. Cook for 1\u20132 minutes until fragrant.\n4. Stir in the turmeric, cumin, and coriander. Mix well.\n5. Add the carrots, green beans, and bell peppers. Cook for 5\u20137 minutes, stirring occasionally.\n6. Pour in the coconut milk and stir to combine. Bring to a gentle simmer.\n7. Cook for 10\u201312 minutes until the veggies are tender but still crisp.\n8. Season with salt to taste. Serve hot with cooked rice.\n\n### Allergen Information\n* This recipe is **dairy-free** and **nut-free**.\n* If you're allergic to coconut, you can substitute the coconut milk with a plant-based milk like almond or oat milk, and use a different oil.\n\n### Nutrition (Approx per serving, 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~6 g\n* Carbohydrates: ~38 g\n* Sugars: ~3 g\n* Fiber: ~5 g\n* Fat: ~18 g\n* Sodium: ~200 mg (depending on salt)\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein & Fiber (for a complete meal)**\n\n* A handful of **soaked and drained chickpeas** or **tofu cubes** (optional)\n* A side of **steamed spinach** or **boiled green peas**\n\n**2. Healthy Fats & Micronutrients**\n\n* A sprinkle of **chopped almonds** or **cashews**\n* A small bowl of **mixed vegetables** (like cucumber, carrot, and tomato) for crunch and color\n\nEnjoy your quick, creamy, and dairy-free coconut curry with veggies! \ud83c\udf34\ud83c\udf72",
+    "_status": "done",
+    "_tags": [],
+    "_notes": "- Curry paste ingredients unknown, could contain gluten, soy, shrimp paste, or other allergens not flagged\n- Almond milk suggested as coconut substitute, it is not a good curry base\n- No protein source in the main recipe\n- Sodium estimate of 200mg too low \u2014 curry paste alone typically contributes 300-500mg per serving\n- Cooked rice listed as ingredient without any cooking instructions\n- \"Tender but still crisp\" after 10-12 minutes in simmering liquid is contradictory\n- No tempering with whole spices \u2014 lacks depth typical of Indian coconut curries",
+    "_failure_modes": [
+      "Allergen Information Errors",
+      "Missing or Incomplete Steps",
+      "Cultural or Authenticity Errors"
+    ]
+  },
+  {
+    "id": "8",
+    "query": "looking for a dish with coconut milk, curry paste and veggies",
+    "response": "## Coconut Curry with Veggies\n\nA creamy and aromatic Indian-style curry made with coconut milk, curry paste, and a medley of colorful vegetables. This dish is light, flavorful, and perfect for a quick and healthy meal.\n\n### Ingredients\n* 1 cup coconut milk (or 1/2 cup canned coconut milk + 1/2 cup water)\n* 1 tbsp curry paste (store-bought or homemade)\n* 1 medium onion, finely chopped\n* 1 green chili, finely chopped (adjust to taste)\n* 1 tsp ginger, grated\n* 1 tsp garlic, minced\n* 1 tbsp tomato paste\n* 2 cups mixed vegetables (like carrots, bell peppers, cauliflower, and peas), chopped\n* 1 tsp turmeric\n* 1 tsp garam masala\n* Salt, to taste\n* 1/4 cup water or coconut milk (as needed)\n* 1 tbsp oil or ghee (optional)\n\n### Instructions\n1. Heat oil or ghee in a large pan or pot over medium heat.\n2. Add the chopped onion and green chili, saut\u00e9 for 2\u20133 minutes until golden.\n3. Add the ginger and garlic, stir for another 1 minute.\n4. Stir in the tomato paste and cook for 1\u20132 minutes until it starts to bubble.\n5. Add the curry paste and turmeric, mix well to combine.\n6. Pour in the coconut milk and stir to mix everything together.\n7. Add the chopped vegetables and garam masala. Stir well.\n8. Cook for 10\u201315 minutes, or until the vegetables are tender and the curry is thickened.\n9. Season with salt to taste. Add a little water or more coconut milk if needed to adjust the consistency.\n10. Serve hot, optionally with rice or naan.\n\n### Allergen Information\n* This recipe contains coconut (common allergen). If you have a coconut allergy, substitute coconut milk with a non-dairy milk like almond or oat milk and use a coconut-free curry paste.\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~250 kcal\n* Protein: ~5 g\n* Carbohydrates: ~20 g\n* Sugars: ~5 g\n* Fiber: ~4 g\n* Fat: ~15 g\n\n### How to Balance This Plate\n\nTo make this a complete, well-rounded meal, add:\n\n**1. Protein**\n* A side of steamed chickpeas or paneer cubes (if not vegan)\n* A handful of soaked and drained moong dal or split green gram\n\n**2. Fiber & Micronutrients**\n* A fresh green salad with cucumber, tomato, and onion\n* A small bowl of steamed broccoli or spinach\n\n**3. Healthy Fats**\n* A drizzle of olive oil or a handful of roasted almonds\n* A spoonful of coconut yogurt (optional)\n\nEnjoy your creamy and flavorful curry with a balanced and nutritious meal! \ud83c\udf34\ud83c\udf5b",
+    "_status": "done",
+    "_tags": [],
+    "_notes": "- Almond milk suggested as coconut substitute, not good curry base\n- No tempering with whole spices \u2014 lacking depth for an Indian-style curry\n- Naan suggested as serving option \u2014 naan contains gluten, worth flagging\n- Sodium not listed in nutrition at all\n",
+    "_failure_modes": [
+      "Allergen Information Errors",
+      "Cultural or Authenticity Errors"
+    ]
+  },
+  {
+    "id": "9",
+    "query": "Can you suggest an advanced gluten-free Indian recipe that I can prepare in about 45 minutes?",
+    "response": "## Gluten-Free Chole Bhature (Without Wheat)\n\nA classic Punjabi dish that's both flavorful and satisfying, made with a protein-rich chickpea curry and gluten-free, oil-based \"bhature\" (deep-fried dough).\n\n### Ingredients\n- 1 cup cooked chickpeas (or 1/2 cup canned chickpeas, drained and rinsed)\n- 1 medium onion, finely chopped\n- 1 green chili, finely chopped\n- 1 tomato, chopped\n- 1 tsp cumin seeds\n- 1 tsp ginger-garlic paste\n- 1/2 tsp turmeric\n- 1/2 tsp garam masala\n- 1/2 tsp red chili powder (adjust to taste)\n- 1/2 tsp coriander powder\n- Salt to taste\n- 2 tbsp oil (for cooking)\n- 1/2 cup water (for the curry)\n\n### Instructions\n1. In a pan, heat oil and add cumin seeds. Once they sizzle, add the chopped onions, green chili, and ginger-garlic paste. Saut\u00e9 for 2\u20133 minutes until onions turn golden.\n2. Add the chopped tomato and cook until it softens and starts to break down, about 5 minutes.\n3. Add the turmeric, garam masala, red chili powder, coriander powder, and salt. Mix well and cook for 2\u20133 minutes.\n4. Add the cooked chickpeas and 1/2 cup water. Stir to combine and let the curry simmer for 5\u20137 minutes until the chickpeas are well-coated and the flavors meld.\n5. Meanwhile, prepare the gluten-free \"bhature\" by making a small ball of dough from the chickpea curry (about 1/4 cup of the curry), shape it into a ball, and deep-fry in hot oil until golden and puffed, about 3\u20134 minutes.\n6. Repeat with the remaining curry to make 4\u20136 bhature.\n7. Serve the chole bhature hot, with a side of raita or pickles.\n\n### Allergen Information\n- This recipe is gluten-free and does not contain any common allergens like peanuts or soy.\n\n### Notes\n- For a lighter version, you can use a small amount of ghee or coconut oil instead of regular oil.\n- If you prefer a creamier chole, add a splash of yogurt or coconut milk at the end.\n\n### Nutrition (Approx per serving, 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~18 g\n* Carbohydrates: ~42 g\n* Sugars: ~2 g\n* Fiber: ~10 g\n* Fat: ~12 g\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**\n\n* A side of steamed green beans or spinach\n* A small bowl of mixed vegetables (carrot, cucumber, tomato, and bell pepper)\n\n**2. Healthy fats**\n\n* A drizzle of ghee or a small handful of roasted chana dal\n* A spoonful of yogurt or coconut yogurt for raita\n\nEnjoy your gluten-free, protein-packed meal! \ud83c\udf5b\u2728",
+    "_status": "done",
+    "_tags": [
+      "hallucinating",
+      "wrong cooking instructions"
+    ],
+    "_notes": "this is completely wrong, chole is supposed to be the curry and bhature is supposed to be made from all purpose flour (maida). Till step 4 it is fine. But from step 5 it got mixed up as we asked it to give a gluten free recipe.",
+    "_failure_modes": [
+      "Fundamental Recipe Confusion",
+      "Wrong Cooking Method"
+    ]
+  },
+  {
+    "id": "10",
+    "query": "looking for a really complex Indian dish that i can make gluten free within an hour",
+    "response": "## Kerala Fish Curry (Gluten-Free Version)\n\nA rich and complex Kerala dish with a tangy coconut-based curry, perfectly balanced with spices and served with steamed rice.\n\n### Ingredients\n- 1 cup basmati rice (gluten-free)\n- 1 cup coconut milk (or canned coconut milk)\n- 1 cup water\n- 1 cup chopped potatoes\n- 1 cup chopped pumpkin\n- 1 cup chopped green peas\n- 1 medium onion, finely chopped\n- 1 green chili, finely chopped (adjust to taste)\n- 1 tbsp ginger-garlic paste\n- 1 tsp turmeric\n- 1 tsp garam masala\n- 1 tsp cumin seeds\n- 1 tsp mustard seeds\n- 1 tsp curry leaves\n- 1/2 tsp red chili powder (adjust to taste)\n- Salt, to taste\n- 1/2 cup roasted cashews (soaked and blended for smoothness)\n- 1/2 cup coconut oil or ghee\n- 1 tbsp lemon juice\n\n### Instructions\n1. Rinse the basmati rice and cook it in a pot with water, salt, and a little oil until tender. Set aside.\n2. In a pan, heat coconut oil and add mustard seeds, cumin seeds, and curry leaves. Let them sizzle until the seeds crackle.\n3. Add the finely chopped onion and green chili. Saut\u00e9 until the onions turn golden.\n4. Add the ginger-garlic paste and saut\u00e9 for 1\u20132 minutes.\n5. Add the turmeric, red chili powder, and garam masala. Stir well to mix the spices.\n6. Add the chopped potatoes, pumpkin, and green peas. Cook for 5\u20137 minutes on medium heat.\n7. Pour in the coconut milk and bring to a gentle simmer. Cook for 10\u201312 minutes until the vegetables are tender.\n8. In a blender, combine the roasted cashews, lemon juice, and a little water to make a smooth cashew paste. Stir this into the curry.\n9. Serve the curry with the cooked basmati rice.\n\n### Allergen Information\n- **No peanuts or soy** \u2013 this recipe is safe for common allergens.\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**\n\n- A side of steamed broccoli or spinach\n- Fresh coriander leaves for garnish\n\n**2. Healthy fats**\n\n- A drizzle of ghee or a sprinkle of roasted chia seeds\n- A small handful of roasted almonds or walnuts\n\n### Nutrition (Approx per serving)\n\n* **Calories:** ~350 kcal\n* **Protein:** ~10 g\n* **Carbohydrates:** ~45 g\n* **Sugars:** ~5 g\n* **Fiber:** ~8 g\n* **Fat:** ~18 g\n* **Sodium:** ~200 mg (depending on salt used)",
+    "_status": "done",
+    "_tags": [
+      "query response mismatch",
+      "excessive oil",
+      "wrong total calories",
+      "incorrect measurements"
+    ],
+    "_notes": "- Title says \"Kerala Fish Curry\" but contains no fish \u2014 completely mismatched\n- Not complex \u2014 basic vegetable curry with coconut milk is beginner level\n- 1/2 cup coconut oil is excessive \u2014 roughly 900 calories of oil alone for 2 servings\n- Curry leaves measured in teaspoons \u2014 curry leaves are whole leaves, not a powder, cannot be measured this way\n- Allergen info ignores cashews and coconut, both of which are tree nuts and common allergens\n- Sodium estimate of 200mg is too low given coconut milk, salt, and ginger-garlic paste",
+    "_failure_modes": [
+      "Title or Dish Identity Mismatch",
+      "Query Constraint Violation",
+      "Incorrect Measurements",
+      "Allergen Information Errors",
+      "Incorrect Nutrition Estimates"
+    ]
+  },
+  {
+    "id": "11",
+    "query": "pls help me with a complex gluten-free Indian recipe taking around 45 mins, thx!",
+    "response": "## Chana Masala with Quinoa and Roasted Carrots\n\nA hearty, gluten-free Indian dish packed with protein and fiber, featuring chickpeas, quinoa, and roasted carrots. It\u2019s a balanced meal that\u2019s both satisfying and nutritious.\n\n### Ingredients\n- 1 cup raw chickpeas (soaked overnight, drained)\n- 1 cup quinoa (uncooked)\n- 1 medium carrot (peeled and sliced)\n- 1 small onion (finely chopped)\n- 2 green chilies (finely chopped)\n- 1 tbsp ginger (grated)\n- 1 tsp cumin seeds\n- 1 tsp turmeric\n- 1 tsp garam masala\n- 1 tsp coriander powder\n- 1 tsp chili powder (adjust to taste)\n- 1 tsp salt\n- 2 tbsp oil (coconut or sunflower)\n- 1/4 cup water (for quinoa)\n- 1/4 cup chopped cilantro (for garnish)\n\n### Instructions\n1. In a pot, bring water to a boil, add quinoa, and cook for 15\u201320 minutes or until the quinoa is tender and the water is absorbed.\n2. In a separate pot, add oil and heat over medium flame.\n3. Add cumin seeds and let them sizzle for a few seconds.\n4. Add chopped onions and saut\u00e9 until golden (about 5 minutes).\n5. Add green chilies, ginger, turmeric, and salt. Saut\u00e9 for 1 minute.\n6. Add soaked and drained chickpeas and mix well.\n7. Add garam masala, coriander powder, and chili powder. Cook for another 5 minutes on low heat.\n8. Add a little water if the mixture becomes too dry.\n9. Cook for another 10\u201315 minutes until the chickpeas are well-cooked and the masala is thick.\n10. In a separate oven-safe dish, arrange roasted carrots (pre-roasted at 200\u00b0F for 25\u201330 minutes) and top with the chickpea masala.\n11. Garnish with cilantro and serve hot.\n\n### Allergen Information\n- **None** \u2013 This recipe is naturally gluten-free and does not contain common allergens like peanuts, tree nuts, or soy.\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~20 g\n* Carbohydrates: ~45 g\n* Sugars: ~5 g\n* Fiber: ~10 g\n* Fat: ~12 g\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**\n\n* A side of steamed spinach or kale\n* A small bowl of mixed green salad with lemon dressing\n\n**2. Healthy fats**\n\n* A drizzle of olive oil or a handful of roasted almonds\n* A spoonful of plain yogurt or a small bowl of raita\n\n**3. Additional protein (optional)**\n\n* A small bowl of paneer cubes or a handful of roasted chana (split chickpeas) for extra protein.",
+    "_status": "done",
+    "_tags": [
+      "Incorrect measurements",
+      "Wrong nutrition",
+      "Missing ingredient"
+    ],
+    "_notes": "insufficient water for quinoa\nincorrect cooking time for quinoa\nchickpeas need more cooking time on open pot, or needs to be pressure cooked\nmissing ingredient - tomatoes\nroasting temperature confusion between Fahrenheit/Centigrade for carrots\nProtein overestimated in nuitrition\n",
+    "_failure_modes": [
+      "Incorrect Measurements",
+      "Missing or Incomplete Steps",
+      "Incorrect Nutrition Estimates"
+    ]
+  },
+  {
+    "id": "12",
+    "query": "dessert using chickpeas and cocao",
+    "response": "## Chocolate Chickpea Brownies\n\nA rich, fudgy dessert made with chickpeas and cocoa for a healthy twist on classic brownies. Packed with protein and fiber, it's a satisfying treat without the guilt.\n\n### Ingredients\n- 1 cup cooked chickpeas (about 1/2 cup raw, soaked and boiled)\n- 1/2 cup cocoa powder\n- 1/2 cup maple syrup or honey\n- 1/4 cup melted coconut oil\n- 1/4 cup almond flour\n- 1/4 tsp baking soda\n- 1/4 tsp salt\n- 1/2 tsp vanilla extract\n- 1/4 cup dark chocolate chips (optional)\n\n### Instructions\n1. Preheat your oven to 350\u00b0F (175\u00b0C) and line an 8x8-inch baking dish with parchment paper.\n2. In a mixing bowl, combine the cooked chickpeas, cocoa powder, maple syrup, melted coconut oil, almond flour, baking soda, salt, and vanilla extract.\n3. Stir well to combine all the ingredients.\n4. Fold in the chocolate chips if using.\n5. Pour the mixture into the prepared baking dish and spread it evenly.\n6. Bake for 25\u201330 minutes, or until a toothpick inserted in the center comes out clean.\n7. Let the brownies cool completely before cutting into squares.\n\n### Allergen Information\n- Contains coconut (in coconut oil) and almonds (in almond flour). Ensure these are not allergens for you.\n\n### Nutrition (Approx per 1 square, serving size: 1/8 of the batch)\n\n- Calories: ~120 kcal\n- Protein: ~6 g\n- Carbohydrates: ~14 g\n- Sugars: ~8 g\n- Fiber: ~3 g\n- Fat: ~6 g\n- Sodium: ~100 mg\n\n### How to Balance This Plate\n\nTo make this dessert a balanced meal, consider adding:\n\n**1. Protein & fiber (to make it a complete meal)**\n\n- A small bowl of Greek yogurt with a sprinkle of granola\n- A handful of roasted chickpeas or edamame\n\n**2. Healthy fats & micronutrients (to enhance flavor and nutrition)**\n\n- A drizzle of almond butter or a sprinkle of chia seeds\n- A side of fresh berries or a small handful of nuts\n\nEnjoy your chocolatey, protein-packed treat! \ud83c\udf6b\ud83c\udf31",
+    "_status": "done",
+    "_tags": [
+      "incorrect instructions",
+      "incorrect measurements"
+    ],
+    "_notes": "- \"In a mixing bowl, combine the cooked chickpeas, cocoa powder, maple syrup, melted...\" need to blend cooked chickpeas with all ingredients\n- Almond flour not needed in this recipe.\n- 1/2 cup cocoa powder is very high relative to other ingredients\n- Dark chocolate chips not accounted for in nutrition\n- \"Toothpick comes out clean\" is the wrong doneness test for fudgy brownies \u2014 clean toothpick means overbaked\n",
+    "_failure_modes": [
+      "Missing or Incomplete Steps",
+      "Incorrect Measurements"
+    ]
+  },
+  {
+    "id": "13",
+    "query": "pls i need a fast diabetic recipe with everyday ingredients \ud83d\ude05",
+    "response": "## Simple Diabetes-Friendly Vegetable Stir Fry\n\nA quick, healthy, and delicious stir fry packed with fiber and low in carbs, perfect for a diabetic-friendly meal.\n\n### Ingredients\n* 1 cup chopped mixed vegetables (like carrots, beans, bell peppers, and peas)\n* 1/2 cup finely chopped onions\n* 1 green chili, slit (optional)\n* 1 tbsp ginger-garlic paste\n* 1 tsp turmeric\n* 1 tsp cumin\n* 1 tsp coriander powder\n* 1/2 tsp garam masala\n* Salt to taste\n* 2 tbsp water or low-sodium soy sauce (optional)\n* 1 tbsp olive oil or any neutral oil\n\n### Instructions\n1. Heat oil in a pan or wok over medium heat.\n2. Add onions and saut\u00e9 until they turn golden.\n3. Add ginger-garlic paste and green chili, and cook for 1 minute.\n4. Add mixed vegetables and cook for 5 minutes, stirring occasionally.\n5. Add turmeric, cumin, coriander powder, garam masala, and salt. Mix well.\n6. Pour in 2 tbsp water or soy sauce (if using) and stir to combine.\n7. Cook for another 5 minutes until the vegetables are tender.\n8. Turn off the heat and serve warm.\n\n### Allergen Information\n* No common allergens used in this recipe.\n\n### Notes\n* You can use any seasonal or leftover vegetables.\n* For extra protein, add 1/4 cup of soaked and drained chana dal or moong dal.\n* This recipe is gluten-free and suitable for a low-carb diet.\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~120 kcal\n* Protein: ~4 g\n* Carbohydrates: ~12 g\n* Sugars: ~4 g\n* Fiber: ~3 g\n* Fat: ~6 g\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein Boost**\n* 1/4 cup of soaked and drained chana dal or moong dal (to add protein)\n* 1/4 cup of paneer cubes (if not strictly vegetarian)\n* 1/4 cup of roasted peanuts or cashews (for healthy fats and protein)\n\n**2. Fiber & Micronutrients**\n* A side of steamed green beans or spinach\n* A small bowl of cucumber and tomato salad with lemon juice\n* A handful of roasted chickpeas or almonds\n\nThis meal is light, filling, and perfect for managing blood sugar levels while keeping your diet balanced and nutritious. \ud83d\ude0a",
+    "_status": "done",
+    "_tags": [
+      "allergen missed",
+      "mixup indian and indo-chinese"
+    ],
+    "_notes": "Mix-up between Indian and Indo-Chinese styles of cooking. Garam masala and soy sauce are not usually paired.\nMissed allergen information: soy sauce is mentioned in the recipe (though) optional should be flagged as an allergen.\nOver-all decent recipe.",
+    "_failure_modes": [
+      "Cultural or Authenticity Errors",
+      "Allergen Information Errors"
+    ]
+  },
+  {
+    "id": "14",
+    "query": "need a simple keto recipe quick! \ud83d\ude0b",
+    "response": "## Paneer Tikka with Tandoori Sauce (Keto-Friendly)\n\nA quick and flavorful keto recipe that's perfect for a light meal or dinner. This dish is rich in protein and low in carbs, making it ideal for a keto lifestyle.\n\n### Ingredients\n- 1 cup paneer (cottage cheese), cubed\n- 1/2 cup tandoori sauce (store-bought or homemade)\n- 1 tbsp lemon juice\n- 1/2 tsp Kashmiri chili powder\n- 1/2 tsp garam masala\n- 1/2 tsp salt\n- 1/2 tsp black pepper\n- 1/2 tsp cumin powder\n- 1/2 tsp coriander powder\n- 1/2 tsp turmeric\n- 1/2 tsp garlic powder\n- 1/2 tsp onion powder\n- 1/2 tsp paprika\n- 1/4 tsp cayenne pepper (optional, for extra heat)\n- 1/2 cup keto-friendly vegetables (like zucchini, bell peppers, or spinach), chopped\n- 1 tbsp olive oil (for roasting)\n\n### Instructions\n1. Preheat your oven to 200\u00b0C (390\u00b0F).\n2. In a bowl, mix the tandoori sauce, lemon juice, Kashmiri chili powder, garam masala, salt, black pepper, cumin powder, coriander powder, turmeric, garlic powder, onion powder, paprika, cayenne pepper, and olive oil.\n3. Add the paneer cubes and coat them evenly with the marinade.\n4. Place the paneer on a baking tray lined with parchment paper.\n5. Add the chopped keto-friendly vegetables to the tray.\n6. Roast for 20\u201325 minutes or until the paneer is golden and the vegetables are tender.\n7. Serve hot, garnished with fresh cilantro or mint if desired.\n\n### Allergen Information\n- This recipe contains dairy (paneer), so it is not suitable for those with dairy allergies.\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**  \n- A side of steamed broccoli or green beans  \n- A small bowl of mixed salad with cucumber, tomato, and lemon dressing  \n\n**2. Healthy fats**  \n- A drizzle of avocado oil or a small handful of nuts (like almonds or walnuts)  \n- A dollop of Greek yogurt (if not following a strict keto diet)  \n\n### Nutrition (Approx per serving)\n\n* Calories: ~350 kcal  \n* Protein: ~25 g  \n* Carbohydrates: ~10 g  \n* Sugars: ~2 g  \n* Fiber: ~3 g  \n* Fat: ~25 g  \n* Sodium: ~600 mg",
+    "_status": "done",
+    "_tags": [],
+    "_notes": "\"1 cup paneer (cottage cheese), cubed\" paneer not same as American cottage cheese.\nPaneer roasted without any prior searing or broiling - won't develop the characteristic charred tikka exterior\nVegetables vaguely defined as \"1/2 cup keto-friendly vegetables\", is imprecise for a recipe.\n25g protein is plausible but depends heavily on paneer quantity \u2014 1 cup cubed paneer is an imprecise measure.",
+    "_failure_modes": [
+      "Cultural or Authenticity Errors",
+      "Missing or Incomplete Steps"
+    ]
+  },
+  {
+    "id": "15",
+    "query": "Diabetic recipe that's easy to make and uses pantry staples?",
+    "response": "## Chickpea and Spinach Curry (Kadhi)\n\nA simple, healthy, and diabetic-friendly curry made with chickpeas and spinach, using common pantry ingredients. It's rich in fiber and protein, and can be paired with rice or roti for a balanced meal.\n\n### Ingredients\n- 1 cup cooked chickpeas (or 1/2 cup canned chickpeas, drained and rinsed)\n- 1 cup fresh spinach (or 1/2 cup frozen spinach, thawed and drained)\n- 1 small onion, finely chopped\n- 1 green chili, slit (optional)\n- 1 tsp ginger-garlic paste\n- 1 tsp turmeric\n- 1 tsp cumin\n- 1 tsp coriander powder\n- 1/2 tsp garam masala\n- 1/2 tsp salt\n- 1/4 cup water or low-fat yogurt (optional)\n- 1 tbsp oil or ghee\n\n### Instructions\n1. In a pan, heat oil or ghee and add the chopped onion. Saut\u00e9 until golden.\n2. Add the green chili, ginger-garlic paste, and saut\u00e9 for 1 minute.\n3. Add the turmeric, cumin, coriander powder, and garam masala. Mix well.\n4. Add the cooked chickpeas and spinach. Stir to combine.\n5. Add 1/4 cup water or low-fat yogurt (optional) and cook for 5 minutes on low heat.\n6. Season with salt and cook until the spinach is wilted and the mixture is well combined.\n7. Serve warm with steamed rice or roti.\n\n### Allergen Information\n- This recipe is free from common allergens like peanuts, tree nuts, and soy.\n\n### Nutrition (Approx per serving, for 2 people)\n\n- Calories: ~200 kcal\n- Protein: ~12 g\n- Carbohydrates: ~25 g\n- Sugars: ~1 g\n- Fiber: ~8 g\n- Fat: ~6 g\n\n### How to Balance This Plate\n\nTo make this a complete, well-rounded meal, consider adding:\n\n**1. Fiber & Micronutrients (Vegetables)**\n\n- A side of steamed carrots or broccoli\n- A small bowl of cucumber and tomato salad with lemon\n\n**2. Healthy Fats**\n\n- A small handful of soaked almonds or walnuts\n- A drizzle of olive oil or a tsp of ghee\n\n**3. Protein (Optional)**\n\n- A small serving of paneer or tofu (for added protein) if desired\n\nThis dish is not only easy to make but also ideal for managing blood sugar levels due to its high fiber and low glycemic index ingredients.",
+    "_status": "done",
+    "_tags": [
+      "missing ingredients",
+      "missing allergen info"
+    ],
+    "_notes": "- Allergen - curd - dairy is missing\n- Title calls it \"Kadhi\" \u2014 kadhi is a completely different dish made with yogurt and chickpea flour (besan)\n- \"1 cup cooked or 1/2 cup canned\" error repeated from earlier recipes \u2014 1 cup canned drained chickpeas is the correct equivalent to 1 cup cooked\n- No tomatoes \u2014 chickpea curry without tomatoes or any souring agent will taste flat\n- Water and yogurt listed as interchangeable \u2014 they are not, yogurt adds tang and body while water just thins the curry\n- Garam masala added mid-cook again \u2014 should be a finishing spice\n- Only basic onion saut\u00e9 \u2014 needs mustard seeds, curry leaves, or whole spices for depth\n- Salt added at the end after spinach when it should be added earlier to draw moisture from onions and tomatoes\n- Roti suggested as serving option without flagging gluten content \u2014 relevant if diabetic users are also gluten sensitive\n- Sodium not listed in nutrition\n-  protein realistically closer to 10g\n- \"Diabetic-friendly\" claim made without addressing that roti and rice both spike blood sugar \u2014 pairing suggestions undermine the claim",
+    "_failure_modes": [
+      "Title or Dish Identity Mismatch",
+      "Allergen Information Errors",
+      "Missing or Incomplete Steps",
+      "Incorrect Nutrition Estimates",
+      "Plate Balancing Mismatch"
+    ]
+  },
+  {
+    "id": "16",
+    "query": "Can I get a halal recipe that uses lentils and spinach, specifically a Middle Eastern dish, ready in under 30 mins?",
+    "response": "## Lentil and Spinach Stuffed Grape Leaves (Halal)\n\nA simple, flavorful Middle Eastern dish made with lentils and spinach, wrapped in grape leaves. It's a healthy, protein-packed meal with a hint of lemon and garlic.\n\n### Ingredients\n* 1 cup cooked lentils (or 1/2 cup dry lentils, cooked)\n* 1 cup fresh spinach, chopped\n* 1 small onion, finely chopped\n* 2 cloves garlic, minced\n* 1 tbsp olive oil\n* 1 tbsp lemon juice\n* 1 tsp ground cumin\n* 1 tsp ground coriander\n* Salt and pepper, to taste\n* 8\u201310 grape leaves, blanched (or use cabbage leaves as a substitute)\n* 1/4 cup water (for steaming)\n\n### Instructions\n1. In a pan, heat the olive oil and saut\u00e9 the onion and garlic until fragrant.\n2. Add the cooked lentils, spinach, cumin, coriander, salt, and pepper. Mix well and cook for 2\u20133 minutes.\n3. Lay out the grape leaves on a plate, and place a small portion of the lentil-spinach mixture in the center of each leaf.\n4. Fold the sides of the leaf over the filling, then roll it up tightly.\n5. Place the rolled grape leaves in a steaming pot, and add 1/4 cup water.\n6. Cover and steam for 15\u201320 minutes, or until the leaves are tender.\n7. Serve warm, optionally with a drizzle of lemon juice.\n\n### Allergen Information\n* No common allergens (peanuts, tree nuts, soy, dairy). This recipe is halal-friendly and vegetarian.\n\n### Nutrition (Approx per 1\u20132 stuffed grape leaves)\n\n* Calories: ~150\u2013200 kcal\n* Protein: ~8\u201312 g\n* Carbohydrates: ~25\u201330 g\n* Fat: ~5\u20137 g\n* Fiber: ~5\u20137 g\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein Boost**\n* A handful of roasted chickpeas or a side of quinoa\n* A small bowl of yogurt (optional, if not halal)\n\n**2. Fiber & Micronutrients**\n* A side of raw vegetables (like cucumber, carrots, and bell peppers) with a lemon-tahini dressing\n* A sprinkle of chopped parsley or mint for freshness\n\n**3. Healthy Fats**\n* A drizzle of olive oil or a small handful of sesame seeds\n* A slice of whole grain flatbread or pita\n\nEnjoy your halal, Middle Eastern-inspired meal! \ud83c\udf3f\ud83c\udf4b",
+    "_status": "done",
+    "_tags": [],
+    "_notes": "- Cannot be made in under 30 minutes\n- Stuffed grape leaves (warak dawali) - steaming is incorrect technique\n- Authentic stuffed grape leaves use rice as the primary filling, not lentils\n- Rolling instructions too vague\n- Yogurt listed in balance section with note \"if not halal\". yogurt is halal, this note makes no sense\n- Cabbage leaves suggested as substitute \u2014 cabbage rolls are a completely different dish from a different culinary tradition\n- 1/4 cup water insufficient for steaming 15-20 minutes \u2014 will dry out and burn\n- Nutrition range too wide (150-200 kcal, 8-12g protein) to be useful \u2014 serving size is unclear\n- Sodium not listed in nutrition\n- No mint or allspice \u2014 both are standard aromatics in authentic Middle Eastern stuffed grape leaves\n- Rice missing means the filling will be too wet and won't hold shape well inside the leaf",
+    "_failure_modes": [
+      "Query Constraint Violation",
+      "Wrong Cooking Method",
+      "Cultural or Authenticity Errors",
+      "Incorrect Measurements"
+    ]
+  },
+  {
+    "id": "17",
+    "query": "plz help me find a meal with chickpeas coconut milk and spinach. i'm flexible on time and willing to put in intermediate effort! thx \ud83d\ude4f",
+    "response": "## Chickpea & Spinach Coconut Curry with Rice\n\nA creamy, protein-packed curry made with chickpeas, spinach, and coconut milk, served with fluffy rice for a balanced and satisfying meal.\n\n### Ingredients\n* 1 cup cooked chickpeas (or 1/2 cup canned chickpeas, drained and rinsed)\n* 1 cup fresh spinach (or 1/2 cup frozen spinach, thawed and drained)\n* 1 cup coconut milk (full-fat or light)\n* 1 medium onion, finely chopped\n* 1 green chili, finely chopped (adjust to taste)\n* 1 tbsp ginger, grated\n* 1 tbsp garlic, minced\n* 1 tsp ground turmeric\n* 1 tsp ground cumin\n* 1 tsp ground coriander\n* 1/2 tsp garam masala\n* Salt, to taste\n* 2 tbsp oil (coconut or sunflower oil)\n* 1/2 cup cooked rice (for serving)\n\n### Instructions\n1. In a large pan, heat the oil over medium heat.\n2. Add the chopped onion and saut\u00e9 for 2\u20133 minutes until softened.\n3. Add the green chili, ginger, and garlic, and cook for another 1 minute.\n4. Stir in the turmeric, cumin, and coriander, and cook for 30 seconds to release the aromas.\n5. Pour in the coconut milk and stir well. Bring to a gentle simmer.\n6. Add the cooked chickpeas and spinach, and cook for 5\u20137 minutes until the spinach is wilted and the curry thickens.\n7. Stir in the garam masala and season with salt to taste.\n8. Serve hot with a portion of cooked rice.\n\n### Allergen Information\n* Contains coconut (may be a common allergen), so ensure you're not allergic to coconut or any other ingredients listed.\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Protein & Fiber (to complement the dish)**\n* A side of steamed green beans or peas\n* A handful of roasted almonds or soaked chia seeds\n\n**2. Healthy Fats**\n* A drizzle of olive oil or a spoonful of ghee on top\n* A small bowl of yogurt or a fruit like banana or mango\n\n### Nutrition (Approx per serving, 2 people)\n\n* Calories: ~400\u2013450 kcal\n* Protein: ~18\u201320 g\n* Carbohydrates: ~45\u201350 g\n* Sugars: ~2\u20133 g\n* Fiber: ~8\u201310 g\n* Fat: ~20\u201325 g\n* Sodium: ~200\u2013300 mg (varies based on salt used)",
+    "_status": "done",
+    "_tags": [],
+    "_notes": "- \"1 cup cooked or 1/2 cup canned\" error repeated again \u2014 1 cup canned drained is equivalent to 1 cup cooked, not 1/2 cup\n- No tempering with whole spices\n- 1/2 cup cooked rice per serving is too little \n- Protein estimate of 18-20g is high, closer to 14-16g\n- straightforward one-pan curry with no advanced technique",
+    "_failure_modes": [
+      "Incorrect Measurements",
+      "Incorrect Nutrition Estimates"
+    ]
+  },
+  {
+    "id": "18",
+    "query": "i want to cook something dairy free but not indian and would be easy for a beginner like me maybe from common pantry stuff",
+    "response": "## Creamy Tomato Basil Soup\n\nA simple, dairy-free, and comforting soup that's easy to make with common pantry ingredients. It\u2019s light, creamy, and perfect for a beginner.\n\n### Ingredients\n* 1 can (14 oz) diced tomatoes\n* 1 medium onion, chopped\n* 2 cloves garlic, minced\n* 1 cup vegetable broth\n* 1/2 cup fresh basil leaves, chopped (or 1 tsp dried basil)\n* 1 tbsp olive oil\n* 1/2 tsp salt\n* 1/4 tsp black pepper\n* 1/4 tsp sugar (optional, to balance acidity)\n* 1/4 cup unsweetened almond milk (or any plant-based milk)\n* 1 tbsp cornstarch (to thicken, optional)\n\n### Instructions\n1. Heat olive oil in a large pot over medium heat.\n2. Add chopped onion and garlic, saut\u00e9 for 2\u20133 minutes until softened.\n3. Add diced tomatoes, salt, pepper, and basil. Stir to combine.\n4. Pour in vegetable broth and bring to a simmer.\n5. Let it simmer for 10\u201315 minutes until the mixture thickens slightly.\n6. If desired, mix cornstarch with a little water to make a slurry and stir it into the soup to thicken.\n7. Stir in almond milk and let it simmer for another 2\u20133 minutes.\n8. Taste and adjust seasoning if needed. Serve warm.\n\n### Allergen Information\n* Contains: None (dairy-free, nut-free if using almond milk substitute)\n\n### Notes\n* For a creamier texture, you can use coconut milk instead of almond milk.\n* If you don\u2019t have fresh basil, use 1 tsp dried basil.\n* This soup can be made in advance and stored in the fridge for up to 3 days.\n\n### Nutrition (Approx per 1 cup serving)\n\n* Calories: ~80 kcal\n* Protein: ~2 g\n* Carbohydrates: ~12 g\n\n* Sugars: ~1 g\n* Fiber: ~2 g\n* Fat: ~4 g\n* Sodium: ~300 mg\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Protein & Fiber**\n* A handful of roasted chickpeas or edamame\n* A small serving of whole grain crackers or rice cakes\n\n**2. Healthy Fats**\n* A drizzle of olive oil or avocado slices\n* A small handful of nuts or seeds (e.g., pumpkin seeds, sunflower seeds)\n\n**3. Fresh Vegetables**\n* A side of steamed broccoli or green beans\n* A crisp salad with cherry tomatoes and cucumbers\n\nEnjoy your easy, dairy-free, and balanced meal! \ud83e\udd57\ud83c\udf72",
+    "_status": "done",
+    "_tags": [
+      "missing steps"
+    ],
+    "_notes": "- Soup not blended \u2014 creamy tomato soup is almost always blended smooth,\n- Fresh basil should be added at the end off heat,\n- Sugar is necessary, not just optional\n",
+    "_failure_modes": [
+      "Missing or Incomplete Steps"
+    ]
+  },
+  {
+    "id": "19",
+    "query": "need a yummy vegetarian pasta dish 30-60 mins with moderate effort \ud83c\udf5d help me out!",
+    "response": "## Creamy Spinach & Mushroom Pasta\n\nA simple, delicious vegetarian pasta dish with a creamy spinach and mushroom sauce, perfect for a quick and satisfying meal.\n\n### Ingredients\n- 200g spaghetti or your favorite pasta\n- 2 cups fresh spinach, chopped\n- 1 cup mushrooms, sliced\n- 1 medium onion, finely chopped\n- 2 cloves garlic, minced\n- 1/2 cup plain yogurt (or cream cheese for creaminess)\n- 1/2 cup milk (or plant-based milk)\n- 2 tbsp butter (or olive oil)\n- 1/2 tsp turmeric\n- 1/2 tsp garam masala\n- Salt and pepper, to taste\n- Fresh parsley, chopped (for garnish)\n\n### Instructions\n1. Bring a large pot of salted water to a boil. Add the pasta and cook according to package instructions until al dente. Drain and set aside.\n2. In a large skillet, melt the butter (or heat the oil) over medium heat. Add the onion and garlic, saut\u00e9 for 2\u20133 minutes until fragrant.\n3. Add the mushrooms and cook for 5 minutes, stirring occasionally, until they start to soften.\n4. Add the spinach and cook for 2\u20133 minutes until wilted.\n5. Stir in the yogurt (or cream cheese), milk, turmeric, garam masala, salt, and pepper. Mix well to combine and let the sauce simmer for 2\u20133 minutes.\n6. Toss the cooked pasta into the sauce and mix thoroughly to coat the pasta.\n7. Garnish with fresh parsley and serve hot.\n\n### Allergen Information\n- This recipe is free from common allergens like peanuts, tree nuts, soy, and gluten (if using gluten-free pasta).\n\n### Notes\n- You can substitute yogurt with a plant-based alternative like coconut milk or almond milk for a vegan version.\n- For extra flavor, add a pinch of smoked paprika or a splash of lemon juice to the sauce.\n\n### Nutrition (Approx per serving)\n\n* Calories: ~350 kcal\n* Protein: ~12 g\n* Carbohydrates: ~45 g\n* Sugars: ~3 g\n* Fiber: ~3 g\n* Fat: ~15 g\n* Sodium: ~200 mg (depending on salt used)\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein**\n- A handful of roasted chickpeas or black beans\n- A side of paneer cubes (if not vegan)\n\n**2. Fiber & Micronutrients**\n- A small bowl of steamed broccoli or carrots\n- A sprinkle of chopped fresh coriander or mint\n\n**3. Healthy Fats**\n- A drizzle of olive oil or a sprinkle of nuts like almonds or cashews\n- A spoonful of roasted chana or paneer cubes\n\nEnjoy your creamy and healthy vegetarian pasta dish! \ud83c\udf5d",
+    "_status": "done",
+    "_tags": [
+      "Incorrect ingredients",
+      "Missing allergen info",
+      "Incorrect cooking instructions"
+    ],
+    "_notes": "- Turmeric and garam masala are not needed\n- Yogurt not needed\n- Pasta contains gluten, claiming \"free from gluten if using gluten-free pasta\" in allergen info is misleading since the recipe uses regular spaghetti\n- Contains dairy (butter, yogurt, milk) \u2014 not flagged in allergen info\n- No pasta water reserved\n- Mushrooms  need higher heat\n- Yogurt and milk together as the sauce base is thin and unstable \u2014 authentic creamy pasta uses cream, cream cheese, or a roux\n- Effort level is low, not moderate",
+    "_failure_modes": [
+      "Allergen Information Errors",
+      "Cultural or Authenticity Errors",
+      "Missing or Incomplete Steps",
+      "Query Constraint Violation"
+    ]
+  },
+  {
+    "id": "20",
+    "query": "looking for a vegetarian italian recipe that takes 30-60 minutes to prepare... something not too difficult",
+    "response": "## Simple Italian Vegetable Pasta\n\nA quick and easy vegetarian pasta dish with fresh vegetables, tomatoes, and herbs, perfect for a light meal.\n\n### Ingredients\n* 200 g whole wheat pasta (or any pasta of your choice)\n* 1 medium tomato, chopped\n* 1 small red onion, finely chopped\n* 1 cup cherry tomatoes, halved\n* 1 cup zucchini, diced\n* 1 cup bell pepper, diced\n* 2 cloves garlic, minced\n* 1 tsp olive oil\n* 1 tsp dried oregano\n* 1 tsp dried basil\n* Salt and pepper, to taste\n* Fresh parsley, chopped (for garnish)\n* Parmesan cheese (optional, for garnish)\n\n### Instructions\n1. Bring a large pot of salted water to a boil. Add the pasta and cook according to package instructions until al dente. Drain and set aside.\n2. In a large skillet, heat the olive oil over medium heat. Add the garlic and saut\u00e9 for 1 minute until fragrant.\n3. Add the chopped onion and saut\u00e9 for 2\u20133 minutes until softened.\n4. Add the zucchini, bell pepper, and cherry tomatoes. Cook for 5\u20137 minutes until the vegetables are tender.\n5. Add the chopped tomato, oregano, basil, salt, and pepper. Stir well and cook for 3\u20134 minutes until the sauce thickens slightly.\n6. Toss the cooked pasta into the skillet with the vegetable sauce. Stir to coat the pasta evenly.\n7. Garnish with fresh parsley and, if desired, a sprinkle of Parmesan cheese. Serve immediately.\n\n### Allergen Information\n* This recipe contains **gluten** (from the pasta) and **sesame** (if using sesame oil or sesame seeds). If you have a sesame or gluten allergy, you can substitute the pasta with a gluten-free option and use a gluten-free oil or omit the oil entirely.\n\n### Nutrition (Approx per serving)\n\n* Calories: ~450 kcal\n* Protein: ~12 g\n* Carbohydrates: ~65 g\n* Sugars: ~10 g\n* Fiber: ~5 g\n* Fat: ~15 g\n* Sodium: ~300 mg\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein**\n* A small serving of chickpeas or lentils (about 30 g) for extra protein.\n* A handful of soaked and drained almonds or walnuts for healthy fats and protein.\n\n**2. Fiber & Micronutrients**\n* A side of steamed broccoli or a mixed green salad with lemon dressing.\n* A small portion of whole grain bread or quinoa for added fiber and complex carbs.\n\nEnjoy your simple and healthy Italian vegetarian meal! \ud83c\udf5d",
+    "_status": "done",
+    "_tags": [
+      "query response mismatch",
+      "incorrect protein estimate"
+    ],
+    "_notes": "asked for 30-60 min recipe, this is much faster\nno much sauce in pasta\n\"use a gluten-free oil or omit the oil entirely.\" - omitting oil completely is not practical\n",
+    "_failure_modes": [
+      "Query Constraint Violation",
+      "Allergen Information Errors",
+      "Incorrect Nutrition Estimates"
+    ]
+  },
+  {
+    "id": "21",
+    "query": "wat's a diabetic friendly recipe that uses lentils, spinach and tomatoes??? must not be sweet and i\u2019m ready to put in a bit of effort! no rush just want it to be good!",
+    "response": "## Kaddu Ka Palak Curry (Pumpkin and Spinach Curry)\n\nA creamy, rich, and diabetic-friendly curry made with lentils, spinach, and tomatoes. It\u2019s packed with fiber and protein, making it a perfect meal for those looking to manage their blood sugar levels.\n\n### Ingredients\n* 1 cup split green lentils (soaked for 4\u20136 hours, drained)\n* 2 cups chopped spinach\n* 1 medium onion, finely chopped\n* 1 tomato, finely chopped\n* 1 cup cubed pumpkin (butternut or any sweet potato)\n* 1 green chili, finely chopped (optional)\n* 1 tsp ginger paste\n* 1 tsp garlic paste\n* 1 tsp cumin seeds\n* 1 tsp turmeric\n* 1 tsp coriander powder\n* 1 tsp garam masala\n* Salt, to taste\n* 2\u20133 tbsp water or low-sodium vegetable broth\n* 1 tbsp coconut oil or ghee (optional for richness)\n\n### Instructions\n1. In a pot, add the soaked lentils, water, and a pinch of salt. Bring to a boil, then reduce heat and simmer for 15\u201320 minutes until lentils are soft.\n2. In a separate pan, heat oil or ghee. Add cumin seeds and let them sizzle for a few seconds.\n3. Add the finely chopped onion and saut\u00e9 for 2\u20133 minutes until golden.\n4. Add the green chili, ginger paste, and garlic paste. Saut\u00e9 for 1 minute.\n5. Add the chopped tomato and cook for 5 minutes until the tomato breaks down.\n6. Stir in the spinach and cook for 2\u20133 minutes until wilted.\n7. Add the cubed pumpkin, turmeric, coriander powder, and garam masala. Cook for another 5\u20137 minutes until the pumpkin is tender.\n8. Add the cooked lentils and mix well. Cook for another 5 minutes to combine all the flavors.\n9. Adjust salt to taste and serve warm.\n\n### Allergen Information\n* This recipe is free from common allergens like peanuts, tree nuts, and dairy.\n\n### How to Balance This Plate\n\nTo make this meal well-rounded and balanced, consider adding:\n\n**1. Protein (for satiety and muscle repair)**  \n* A handful of roasted chana (chickpeas) or a small bowl of paneer cubes (if non-vegetarian is acceptable).\n\n**2. Fiber & micronutrients (for digestion and vitamins)**  \n* A side of steamed green beans or a fresh cucumber salad with lemon and chili.\n\n**3. Healthy fats (for hormone balance and satiety)**  \n* A drizzle of olive oil or a sprinkle of roasted sesame seeds.\n\n### Nutrition (Approx per serving for 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~18 g\n* Carbohydrates: ~45 g\n* Sugars: ~5 g\n* Fiber: ~10 g\n* Fat: ~15 g\n* Sodium: ~200 mg (depending on salt used)",
+    "_status": "done",
+    "_tags": [
+      "query response mismatch",
+      "incorrect water measure",
+      "recipe title mismatch",
+      "incorrect protein estimate"
+    ],
+    "_notes": "user said it should not be sweet, but the recipe is going to be a bit on the sweeter side due to sweet potato.\nTitle says pumpkin, recipe uses squash or sweet potato. All of them are a bit sweet.\nWater is less than required.\nWrong classification of paneer as non-veg: \"a small bowl of paneer cubes (if non-vegetarian is acceptable).\"\nProtein overestimated, not 18g may be 13-14 g.\n",
+    "_failure_modes": [
+      "Query Constraint Violation",
+      "Title or Dish Identity Mismatch",
+      "Incorrect Nutrition Estimates",
+      "Cultural or Authenticity Errors",
+      "Wrong Food Category Classification"
+    ]
+  },
+  {
+    "id": "22",
+    "query": "need a high-protein south indian breakfast using moong dal or any lentils, stovetop only, nothing too oily",
+    "response": "## Moong Dal Upma with Chutney\n\nA high-protein, healthy South Indian breakfast made with moong dal and upma, served with a tangy chutney for a balanced meal.\n\n### Ingredients\n* 1 cup moong dal (soaked for 6\u20138 hours)\n* 1/2 cup rice\n* 1/2 cup semolina (sooji)\n* 1 small onion, finely chopped\n* 1 green chili, finely chopped\n* 1 tbsp coriander leaves, chopped\n* 1 tsp cumin seeds\n* 1 tsp mustard seeds\n* 1/2 tsp turmeric\n* 1/2 tsp salt\n* 1/4 tsp red chili powder (optional)\n* 1/4 cup water (for grinding)\n* 1/4 cup water (for cooking)\n* 1 tbsp lemon juice\n* 1/4 tsp pepper powder\n* 1/4 tsp garam masala\n* 1/2 cup chopped carrots\n* 1/2 cup chopped cucumber\n* 1/2 cup chopped tomato\n* 1/4 cup chopped coriander leaves\n* 1/4 tsp salt (for chutney)\n\n### Instructions\n1. Drain the soaked moong dal and rice.\n2. In a blender, grind the moong dal, rice, semolina, onion, green chili, coriander leaves, turmeric, and salt into a coarse batter. Add 1/4 cup water if needed.\n3. In a pan, heat a little oil and add cumin seeds and mustard seeds. Let them splutter.\n4. Add the moong dal batter and stir continuously. Add 1/4 cup water and cook on low heat for 10\u201315 minutes until the batter thickens and becomes soft.\n5. In a separate bowl, make the chutney by mixing chopped carrots, cucumber, tomato, coriander leaves, lemon juice, salt, pepper powder, garam masala, and a little water to make a smooth paste.\n6. Serve the upma hot with the chutney on the side.\n\n### Allergen Information\n* No common allergens used in this recipe.\n\n### Nutrition (Approx per serving for 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~18 g\n* Carbohydrates: ~48 g\n* Sugars: ~2 g\n* Fiber: ~6 g\n* Fat: ~8 g\n* Sodium: ~600 mg\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein & Fiber**\n* A handful of soaked and drained chana dal (split green gram) for extra protein.\n* A small bowl of steamed green vegetables like spinach or broccoli.\n\n**2. Healthy Fats**\n* A drizzle of olive oil or a small handful of roasted nuts (like almonds or walnuts) on top of the upma.\n* A spoonful of low-fat yogurt or a spoonful of chia seeds for added omega-3s.\n\n**3. Extra Fiber**\n* A small bowl of fresh fruit like banana or apple for natural sweetness and fiber.",
+    "_status": "flag",
+    "_tags": [
+      "wrong recipe"
+    ],
+    "_notes": "rice not needed\ncompletely messed up recipe - only semolina is needed for upma, grinding and cooking moong dal does not work.\nChutney is also wrong, mixing chopped vegetables does not make a smooth paste.\nMoong dal chilla could have been suggested.",
+    "_failure_modes": [
+      "Fundamental Recipe Confusion",
+      "Wrong Cooking Method"
+    ]
+  },
+  {
+    "id": "23",
+    "query": "looking for a balanced andhra one-pot lunch with rice, dal, and veggies \u2014 no fried stuff pls",
+    "response": "## Andhra One-Pot Dal Rice with Vegetables\n\nA quick, wholesome Andhra-style one-pot meal that combines rice, lentils, and veggies in a single pot. It\u2019s light, healthy, and loaded with flavor without any fried ingredients.\n\n### Ingredients\n* 1 cup basmati rice\n* 1 cup toor dal (split pigeon peas), soaked for 4\u20136 hours\n* 1 medium potato, diced\n* 1 medium carrot, diced\n* 1 cup green beans, trimmed and cut\n* 1 medium tomato, chopped\n* 1 green chili, slit (optional)\n* 1 small onion, finely chopped\n* 1 tsp cumin seeds\n* 1 tsp mustard seeds\n* 1 tsp curry leaves\n* 1 tsp turmeric\n* 1 tsp salt\n* 2\u20133 green chilies, slit (for heat)\n* 1 cup water or vegetable broth\n* 2 tbsp ghee or oil (optional for cooking)\n\n### Instructions\n1. In a large pot, add the soaked toor dal, rice, and 1 cup water. Bring to a boil.\n2. Add the chopped onion, green chili, and cumin seeds. Cook for 2\u20133 minutes until the onions turn translucent.\n3. Add the chopped tomato, curry leaves, mustard seeds, turmeric, and salt. Stir well and cook for another 2\u20133 minutes.\n4. Add the diced potato, carrot, and green beans. Stir to mix everything well.\n5. Add the remaining water or vegetable broth, cover, and let it simmer on low heat for 20\u201325 minutes or until the rice and dal are tender and the vegetables are cooked through.\n6. If the mixture is too dry, add a little more water. If it\u2019s too wet, let it simmer longer.\n7. Garnish with a few green chilies and serve hot.\n\n### Allergen Information\n* No common allergens used. Always check for cross-contamination if you have specific allergies.\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Protein (to complement the dal)**\n* A handful of roasted chana (chickpeas) or a small serving of paneer cubes (if non-veg is okay)\n* A spoonful of soaked and mashed moong dal (for extra protein)\n\n**2. Fiber & micronutrients (vegetables)**\n* A side of steamed spinach or cooked methi (fenugreek leaves)\n* A small bowl of fresh cucumber and carrot salad with lemon and chili\n\n**3. Healthy fats**\n* A drizzle of ghee or a spoonful of roasted coconut\n* A handful of soaked almonds or walnuts\n\n### Nutrition (Approx per serving for 2 people)\n\n* Calories: ~350\u2013400 kcal\n* Protein: ~15\u201318 g\n* Carbohydrates: ~50\u201355 g\n* Sugars: ~5\u20137 g\n* Fiber: ~10\u201312 g\n* Fat: ~12\u201315 g\n* Sodium: ~400\u2013500 mg (depending on salt used)",
+    "_status": "done",
+    "_tags": [
+      "Incorrect water measurement",
+      "Wrong Cooking Method"
+    ],
+    "_notes": "Toor dal needs more water. Overall recipe needs 3-3.5 cups water.\n\"a small serving of paneer cubes (if non-veg is okay)\" - Paneer is Vegetarian.\n",
+    "_failure_modes": [
+      "Incorrect Measurements",
+      "Cultural or Authenticity Errors",
+      "Wrong Food Category Classification"
+    ]
+  },
+  {
+    "id": "24",
+    "query": "any low-sugar indian dessert with jaggery or dates instead of sugar? no oven/microwave",
+    "response": "## Kheer Without Sugar \u2013 Jaggery or Dates Version\n\nA creamy, no-cook Indian dessert made with milk, rice, and sweetened with jaggery or dates. It\u2019s light, healthy, and perfect for any occasion.\n\n### Ingredients\n* 1 cup milk\n* 1/2 cup rice (uncooked, soaked for 30 minutes)\n* 1/2 cup water\n* 1/2 cup jaggery (or 1/4 cup dates, chopped and soaked)\n* 1/2 tsp cardamom powder\n* A pinch of salt\n* 1/4 tsp ground cinnamon (optional)\n* 1/2 tsp vanilla essence (optional)\n\n### Instructions\n1. In a large bowl, combine the soaked rice, milk, and water. Let it sit for 10 minutes to allow the rice to absorb some liquid.\n2. Add the jaggery (or dates), cardamom, salt, and cinnamon to the rice mixture. Stir well to combine.\n3. Cover the bowl and let it sit for 1\u20132 hours, or until the rice is soft and the mixture is creamy.\n4. If using dates, make sure they are fully soaked and well blended into the mixture.\n5. Stir again before serving. You can refrigerate it for a few hours for a chilled version.\n\n### Allergen Information\n* No common allergens (no nuts, soy, dairy if using plant-based milk).\n\n### Notes\n* For a vegan version, use plant-based milk and ensure the jaggery is vegan-friendly.\n* You can add a pinch of nutmeg or cloves for extra flavor.\n* This dish is naturally gluten-free.\n\n### Nutrition (Approx per 1/2 cup serving)\n\n* Calories: ~120 kcal\n* Protein: ~3 g\n* Carbohydrates: ~20 g\n* Sugars: ~15 g\n* Fiber: ~2 g\n* Fat: ~1 g\n* Sodium: ~20 mg\n\n### How to Balance This Plate\n\nTo make this a complete, balanced meal, consider adding:\n\n**1. Protein & Fiber**\n* A handful of soaked and drained chana dal (split chickpeas)\n* A small bowl of roasted mixed vegetables (like carrots, peas, and beans)\n\n**2. Healthy Fat**\n* A drizzle of coconut oil or ghee\n* A sprinkle of roasted almonds or walnuts\n\n**3. Freshness**\n* A side of fresh mint chutney or lemon-tamarind chutney\n* A small bowl of green salad with cucumber, tomato, and onion\n\nEnjoy your healthy, sugar-free Indian dessert! \ud83c\udf3f",
+    "_status": "flag",
+    "_tags": [
+      "Incorrect interpretation of query",
+      "Inauthentic ingredients",
+      "wrong plate balancing"
+    ],
+    "_notes": "Did not interpret noven/microwave instruction correctly - And assumed it had to do give a no-cook dessert.\nWith that assumption also, this is a wrong recipe. Kheer has to be cooked on heat. Soaking with milk does not make kheer. \nVanilla not used in kheer.\nPlate balancing gave Savory side dishes - It does not pair well with Kheer.",
+    "_failure_modes": [
+      "Query Constraint Violation",
+      "Wrong Cooking Method",
+      "Fundamental Recipe Confusion",
+      "Cultural or Authenticity Errors",
+      "Plate Balancing Mismatch"
+    ]
+  },
+  {
+    "id": "25",
+    "query": "suggest a high-protein indian one-pot snack, maybe paneer or chickpea based, but no deep frying",
+    "response": "## Paneer and Chickpea Masala Curry (One-Pot)\n\nA high-protein, one-pot Indian snack that's packed with flavor and easy to prepare. This dish uses paneer and chickpeas for a rich, creamy texture without any deep frying.\n\n### Ingredients\n* 1 cup chickpeas (boiled and drained)\n* 1 cup paneer (cubed)\n* 1 medium onion (finely chopped)\n* 1 green chili (finely chopped)\n* 1 tomato (finely chopped)\n* 1 tsp ginger-garlic paste\n* 1 tsp turmeric\n* 1 tsp red chili powder\n* 1 tsp coriander powder\n* 1 tsp garam masala\n* 1/2 tsp cumin seeds\n* 1/2 tsp mustard seeds\n* 1/2 tsp hing (asafoetida)\n* Salt, to taste\n* 2 tbsp oil\n* 1/2 cup water or vegetable stock\n* 1/2 cup chopped coriander leaves\n\n### Instructions\n1. Heat oil in a large pot or pan over medium heat.\n2. Add cumin seeds, mustard seeds, and hing. Let them sizzle for a few seconds.\n3. Add chopped onions and green chili. Saut\u00e9 until the onions turn golden.\n4. Add ginger-garlic paste and saut\u00e9 for 1\u20132 minutes.\n5. Add chopped tomatoes and cook until they break down and the oil starts to separate.\n6. Add turmeric, red chili powder, coriander powder, and garam masala. Stir well to mix.\n7. Add boiled chickpeas and paneer cubes. Mix everything together.\n8. Pour in 1/2 cup of water or vegetable stock. Let the mixture simmer for 5\u20137 minutes.\n9. Garnish with chopped coriander leaves and serve hot.\n\n### Allergen Information\n* This recipe contains **dairy** (paneer), so it is not suitable for those with a **dairy allergy**.\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**\n\n* A side of steamed green beans or stir-fried spinach\n* A small bowl of raita (yogurt with cucumber and mint)\n\n**2. Healthy fats**\n\n* A drizzle of olive oil or ghee on top\n* A handful of roasted chana or almonds\n\n### Nutrition (Approx per serving)\n\n* Calories: ~350 kcal\n* Protein: ~25 g\n* Carbohydrates: ~30 g\n* Sugars: ~2 g\n* Fiber: ~5 g\n* Fat: ~15 g\n* Sodium: ~300 mg (varies based on salt used)",
+    "_status": "done",
+    "_tags": [
+      "Main ingredient not picked",
+      "Wrong ingredient quantity",
+      "Dish type Mislabeled",
+      "Wrong salt estimate"
+    ],
+    "_notes": "Needs more than one tomato, at least three to four. \nNeed more onions, maybe two. \nNot a snack!\nUses much more salt, wrong in nutrition information.",
+    "_failure_modes": [
+      "Title or Dish Identity Mismatch",
+      "Incorrect Measurements",
+      "Main Ingredient Not Selected"
+    ]
+  },
+  {
+    "id": "26",
+    "query": "what\u2019s a simple south indian stovetop dinner using dosa batter or idli batter? no heavy masala",
+    "response": "## Simple South Indian Stovetop Dosa with Tamarind Chutney\n\nA light and flavorful South Indian dinner using dosa batter, paired with a tangy tamarind chutney for a refreshing twist. Perfect for a quick and healthy meal.\n\n### Ingredients\n- 1 cup dosa batter (prepared from urad dal and rice)\n- 1 cup water (for thinning the batter)\n- 1 tbsp tamarind paste\n- 1/2 tsp salt\n- 1 tbsp lemon juice\n- 1/2 tsp sugar (optional, for balance)\n- 1 tbsp chopped coriander (cilantro)\n- 1 green chili, finely chopped (optional)\n- 1 tbsp oil or ghee (for cooking)\n- 1/4 tsp mustard seeds (optional)\n- 1/4 tsp cumin seeds (optional)\n- 1/4 tsp asafoetida (optional)\n\n### Instructions\n1. In a bowl, mix the dosa batter with water to make a thin, runny consistency.\n2. Heat a non-stick pan or tawa over medium heat.\n3. Pour a ladle of batter and spread it evenly to form a thin circle.\n4. Cook until the edges start to brown and the surface is slightly crispy, about 2\u20133 minutes.\n5. Flip the dosa and cook for another 1\u20132 minutes until golden.\n6. Remove from heat and keep aside.\n7. In a small bowl, mix tamarind paste, salt, lemon juice, sugar, coriander, green chili, and a little water to make a smooth chutney.\n8. Serve the dosa with the tamarind chutney and a drizzle of oil or ghee.\n\n### Allergen Information\n- This recipe contains **urad dal** and **cumin**, which are generally safe for most people. However, if you have a nut allergy, ensure that the coriander and green chili are free from cross-contamination.\n\n### Nutrition (Approx per 1 dosa with chutney)\n\n- Calories: ~120\u2013150 kcal\n- Protein: ~4\u20136 g\n- Carbohydrates: ~18\u201322 g\n- Sugars: ~2\u20134 g\n- Fiber: ~2\u20133 g\n- Fat: ~4\u20136 g\n- Sodium: ~200\u2013300 mg\n\n### How to Balance This Plate\n\nTo make this a complete and balanced meal, consider adding:\n\n**1. Protein & Fiber**\n- A small bowl of **steamed green beans** or **boiled spinach**\n- A handful of **soaked and flaked almonds** or **chickpeas** for extra protein and crunch\n\n**2. Healthy Fats**\n- A drizzle of **coconut oil** or **ghee**\n- A sprinkle of **toasted sesame seeds**\n\n**3. Extra Flavor & Nutrition**\n- A side of **coconut chutney** or **tamarind chutney** (already included)\n- A small plate of **steamed cauliflower or carrots** for added fiber and vitamins\n\nEnjoy your light and healthy South Indian stovetop dinner! \ud83c\udf5b\ud83e\udd57",
+    "_status": "done",
+    "_tags": [
+      "unusual pairing",
+      "wrong ingredients"
+    ],
+    "_notes": "coconut chutney is better, dosa usually not had with tamarind chutney.\nTamarind chutney recipe is wrong. Usually does not have lemon juice. And it should have roasted cumin powder. ",
+    "_failure_modes": [
+      "Cultural or Authenticity Errors",
+      "Allergen Information Errors"
+    ]
+  },
+  {
+    "id": "27",
+    "query": "craving a low-sugar andhra dessert, maybe something with millets, one-pot and no refined sugar",
+    "response": "## Millet Kheer (No Refined Sugar, One-Pot)\n\nA creamy, no-refined-sugar Andhra dessert made with millet (bajra or jowar), coconut milk, and cardamom. It\u2019s a wholesome, low-sugar alternative to traditional kheer.\n\n### Ingredients\n* 1 cup millet (bajra or jowar), washed and soaked for 4\u20136 hours\n* 1 cup coconut milk (or 1 cup milk + 1/2 cup coconut milk for a richer texture)\n* 1/4 cup water (or more as needed)\n* 1/2 tsp cardamom powder\n* 1/2 tsp ground cinnamon (optional)\n* A pinch of salt\n* 1/4 cup raisins (optional, for sweetness)\n* 1/4 cup chopped nuts (almonds, cashews, or walnuts), for garnish\n\n### Instructions\n1. In a large pot, combine the soaked millet, coconut milk, water, cardamom, cinnamon, and salt.\n2. Bring the mixture to a gentle boil, then reduce the heat to low and let it simmer for 20\u201325 minutes, or until the millet is soft and the mixture is thick and creamy.\n3. If the mixture is too thick, add a little more water and continue simmering.\n4. Stir occasionally to prevent sticking.\n5. If using raisins, add them during the last 5 minutes of cooking.\n6. Once cooked, remove from heat and let it rest for 5 minutes.\n7. Garnish with chopped nuts and serve warm or chilled.\n\n### Allergen Information\n* This recipe contains nuts (almonds, cashews, walnuts). If you have a nut allergy, you can skip the garnish or use seeds like sunflower or pumpkin seeds as a substitute.\n\n### Notes\n* You can use any millet like jowar, bajra, or ragi for a different flavor and texture.\n* For a vegan version, ensure the coconut milk is vegan and avoid any dairy.\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~220 kcal\n* Protein: ~5 g\n* Carbohydrates: ~28 g\n* Sugars: ~4 g (natural sugars from coconut milk and raisins)\n* Fiber: ~5 g\n* Fat: ~10 g\n* Sodium: ~150 mg\n\n### How to Balance This Plate\n\nTo make this a balanced meal, add:\n\n**1. Protein & Fiber**\n* A handful of soaked and boiled chana dal or sprouted moong dal for added protein and fiber.\n* A small bowl of fresh salad (like cucumber, tomato, and onion) with lemon dressing.\n\n**2. Healthy Fats**\n* A drizzle of ghee or a small handful of roasted chia seeds.\n* A spoonful of unsweetened almond butter or peanut butter.\n\n**3. Hydration**\n* Serve with a glass of buttermilk or a cup of green tea for hydration and digestion.",
+    "_status": "done",
+    "_tags": [
+      "wrong ingredient"
+    ],
+    "_notes": "salt is not used in sweets - Wrong ingredient. \nrecipe will still work, not be ruined as it is only a pinch of salt.\nRaisins typically fried in ghee, but for this query directly adding makes sense too.",
+    "_failure_modes": [
+      "Cultural or Authenticity Errors",
+      "Incompatible Ingredient Combination"
+    ]
+  },
+  {
+    "id": "28",
+    "query": "need a high-protein andhra lunch, preferably lentil-based and not too spicy",
+    "response": "## Andhra Style Channa Masala with Rice\n\nA high-protein, lentil-based Andhra lunch that's flavorful, not too spicy, and perfect for a balanced meal.\n\n### Ingredients\n* 1 cup chana (bengal gram) dal, soaked and drained\n* 1 medium onion, finely chopped\n* 1 green chili, finely chopped (adjust to taste)\n* 1 tomato, chopped\n* 1 tbsp ginger-garlic paste\n* 1 tsp turmeric\n* 1 tsp garam masala\n* 1 tsp salt\n* 2 tbsp oil\n* 2 cups cooked rice (for serving)\n* Fresh coriander leaves, chopped (for garnish)\n\n### Instructions\n1. In a pressure cooker, add soaked and drained chana dal, 2 cups water, and 1 tsp salt. Cook for 3\u20134 whistles or until soft.\n2. In a pan, heat oil and add chopped onions. Saut\u00e9 until golden.\n3. Add green chili, ginger-garlic paste, and saut\u00e9 for 1\u20132 minutes.\n4. Add chopped tomatoes and cook until they break down and the oil starts to separate.\n5. Add turmeric, garam masala, and salt. Mix well.\n6. Add the cooked chana dal and mix thoroughly. Cook on low heat for 5\u20137 minutes, stirring occasionally.\n7. Garnish with fresh coriander leaves and serve with steamed rice.\n\n### Allergen Information\n* This recipe contains **peanuts** (if used in garam masala or coriander). If you have a peanut allergy, ensure the garam masala is peanut-free.\n\n### Nutrition (Approx per serving)\n\n* Calories: ~250 kcal\n* Protein: ~18 g\n* Carbohydrates: ~35 g\n* Sugars: ~5 g\n* Fiber: ~6 g\n* Fat: ~8 g\n* Sodium: ~1,000 mg\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Fiber & Micronutrients (Vegetables)**\n\n* A side of steamed spinach or cabbage\n* A small bowl of mixed vegetables (carrot, cucumber, tomato)\n\n**2. Healthy Fats**\n\n* A drizzle of olive oil or ghee on top\n* A handful of soaked almonds or walnuts\n\n**3. Extra Protein (Optional)**\n\n* A spoonful of roasted chana dal or sprouted chana for added crunch and protein.",
+    "_status": "done",
+    "_tags": [
+      "wrong allergen info",
+      "wrong fat"
+    ],
+    "_notes": "no peanuts in garam masala or coriander.\nolive oil is not used in andhra cooking.",
+    "_failure_modes": [
+      "Allergen Information Errors",
+      "Cultural or Authenticity Errors"
+    ]
+  },
+  {
+    "id": "29",
+    "query": "looking for a high-fiber indian one-pot lunch with vegetables like spinach, beans, carrot \u2014 no white rice if possible",
+    "response": "## Vegetable Lentil and Spinach One-Pot Curry\n\nA high-fiber, one-pot Indian lunch that\u2019s packed with vegetables like spinach, beans, and carrots. This dish is rich in nutrients and can be served with a side of whole grain naan or brown rice for a complete meal.\n\n### Ingredients\n* 1 cup red lentils (or any lentils), rinsed\n* 1 cup chopped carrots\n* 1 cup chopped spinach\n* 1 cup chopped beans (canned or cooked)\n* 1 medium onion, finely chopped\n* 2 green chilies, slit (adjust to taste)\n* 1 tsp ginger-garlic paste\n* 1 tsp turmeric\n* 1 tsp cumin\n* 1 tsp coriander\n* 1 tsp garam masala\n* 1 tsp salt\n* 1 cup water or vegetable broth\n* 1 tbsp oil or ghee\n* 1/2 cup chopped coriander leaves (for garnish)\n\n### Instructions\n1. In a large pot, heat the oil or ghee over medium heat.\n2. Add the chopped onion and saut\u00e9 until golden (about 3\u20134 minutes).\n3. Add the ginger-garlic paste and saut\u00e9 for 1 minute.\n4. Add the green chilies, turmeric, cumin, coriander, and garam masala. Stir well.\n5. Add the rinsed lentils, carrots, beans, and salt. Mix everything together.\n6. Pour in the water or vegetable broth and bring to a boil.\n7. Reduce the heat to low, cover, and let it simmer for 20\u201325 minutes, or until the lentils and vegetables are tender.\n8. Stir in the chopped spinach and cook for another 5 minutes until wilted.\n9. Garnish with coriander leaves and serve warm.\n\n### Allergen Information\n* No common allergens used in this recipe.\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Protein (to complement the lentils and beans)**\n\n* A side of roasted chickpeas or a handful of soaked almonds\n* A small bowl of yogurt or a dollop of paneer (if not vegan)\n\n**2. Fiber & micronutrients (vegetables)**\n\n* A side of steamed broccoli or green beans\n* A small bowl of mixed salad with lemon dressing\n\n**3. Healthy fats**\n\n* A drizzle of olive oil or a handful of roasted chana (chickpeas)\n* A small handful of pumpkin seeds or sunflower seeds\n\n### Nutrition (Approx per serving for 2 people)\n\n* Calories: ~350 kcal\n* Protein: ~18 g\n* Carbohydrates: ~45 g\n* Sugars: ~5 g\n* Fiber: ~12 g\n* Fat: ~15 g\n* Sodium: ~600 mg (adjust based on salt used)",
+    "_status": "done",
+    "_tags": [
+      "incomplete recipe",
+      "incorrect water measure"
+    ],
+    "_notes": "need to add millets or brown-rice also to the pot to make an actual one-pot.\nneeds more water for cooking lentils.",
+    "_failure_modes": [
+      "Missing or Incomplete Steps",
+      "Incorrect Measurements"
+    ]
+  },
+  {
+    "id": "30",
+    "query": "suggest a south indian lunch on stove using curd or buttermilk, something light and not oily",
+    "response": "## Buttermilk Rice with Tamarind Chutney\n\nA light and refreshing South Indian lunch, perfect for a hot day. This dish is made with simple ingredients and is both healthy and easy to prepare on the stove.\n\n### Ingredients\n* 1 cup basmati rice\n* 1 cup buttermilk\n* 1 small tamarind (or 1 tbsp tamarind paste)\n* 1 small onion, finely chopped\n* 1 green chili, finely chopped (optional)\n* 1 tsp mustard seeds\n* 1 tsp cumin seeds\n* 1/2 tsp curry leaves\n* Salt, to taste\n* 1 tbsp oil (coconut or sesame oil)\n* 1/4 cup chopped coriander leaves (cilantro)\n* 1/4 cup roasted chickpeas (optional, for protein)\n\n### Instructions\n1. Rinse the basmati rice and soak it in water for 30 minutes.\n2. In a pot, add the soaked rice and 2 cups of water. Bring to a boil, then reduce heat and let it simmer for 10\u201312 minutes or until the rice is tender.\n3. In a separate bowl, mix the buttermilk with tamarind, green chili, salt, and a little water to make a smooth chutney.\n4. In a pan, heat the oil. Add mustard seeds, cumin seeds, and curry leaves. Once the seeds start to splutter, add the finely chopped onion and green chili. Saut\u00e9 for 2\u20133 minutes until the onions turn translucent.\n5. Add the tamarind chutney to the onions and mix well. Cook for another 2\u20133 minutes on low heat.\n6. Serve the rice hot with the tamar, chutney on the side and a sprinkle of coriander leaves.\n\n### Allergen Information\n* This recipe contains no common allergens. However, if you're allergic to sesame or coconut, use a neutral oil like sunflower or peanut oil.\n\n### Notes\n* You can use regular yogurt instead of buttermilk if you prefer a creamier texture.\n* For extra protein, add a handful of roasted chickpeas or a spoonful of sprouted moong dal on top.\n\n### Nutrition (Approx per serving)\n\n* Calories: ~200 kcal\n* Protein: ~6 g\n* Carbohydrates: ~35 g\n* Sugars: ~1 g\n* Fiber: ~3 g\n* Fat: ~5 g\n* Sodium: ~150 mg\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Protein**\n* A handful of roasted chickpeas or a spoonful of sprouted moong dal\n* A small bowl of steamed green beans or spinach\n\n**2. Fiber & Micronutrients**\n* A small bowl of mixed salad with cucumber, carrots, and lemon\n* A spoonful of roasted chana dal or split peas\n\n**3. Healthy Fats**\n* A tsp of ghee or a drizzle of olive oil on top\n* A small handful of unsalted almonds or walnuts",
+    "_status": "done",
+    "_tags": [
+      "missing allergen info",
+      "incmplt ingredients",
+      "wrong rice"
+    ],
+    "_notes": "normal rice, basmati is usually not used for this. But this is also edible.\nseems like it confused between tamarind rice and curd rice.\nwater not mentioned in the ingredients list\nbuttermilk+tamarind: NO. Step 3 is Completely wrong. \nlactose intolerant folks cannot have this. Need to add in the allergen list.\nOlive oil is NOT used in this recipe.",
+    "_failure_modes": [
+      "Title or Dish Identity Mismatch",
+      "Allergen Information Errors",
+      "Cultural or Authenticity Errors",
+      "Incompatible Ingredient Combination"
+    ]
+  },
+  {
+    "id": "31",
+    "query": "need a high-protein south indian one-pot dinner, dairy-based is fine but avoid too much ghee or butter",
+    "response": "## Mysore Masala Chana Dal with Coconut Milk\n\nA rich, aromatic one-pot South Indian dish made with chickpeas, coconut milk, and a blend of traditional spices. It's high in protein and perfect for a quick, wholesome meal.\n\n### Ingredients\n- 1 cup (approx. 150g) raw chickpeas (chana dal), soaked overnight\n- 1 cup coconut milk (or 1 cup milk + 1/2 cup coconut oil for a dairy-free option)\n- 1 medium onion, finely chopped\n- 2 green chilies, finely chopped (adjust to taste)\n- 1 tsp mustard seeds\n- 1 tsp cumin seeds\n- 1/2 tsp fenugreek seeds\n- 1/2 tsp turmeric powder\n- 1/2 tsp garam masala\n- 1/2 tsp red chili powder (adjust to taste)\n- 1/2 tsp coriander powder\n- 1/2 tsp salt\n- 1/2 tsp ground cinnamon\n- 1/4 tsp black pepper\n- 1 tbsp chopped coriander (cilantro)\n- 1 tbsp chopped mint (optional)\n- 1 tbsp ghee or oil (optional, for extra richness)\n\n### Instructions\n1. Drain the soaked chickpeas and set aside.\n2. In a heavy-bottomed pot, heat a little ghee or oil.\n3. Add mustard seeds, cumin seeds, and fenugreek seeds. Let them splutter.\n4. Add the chopped onion and saut\u00e9 until golden brown.\n5. Add the green chilies and cook for 1 minute.\n6. Add the chickpeas and stir to coat them with the spices.\n7. Pour in the coconut milk and mix well.\n8. Add turmeric, garam masala, red chili powder, coriander powder, salt, cinnamon, and black pepper. Stir to combine.\n9. Bring the mixture to a gentle boil, then reduce the heat and let it simmer for 15\u201320 minutes, or until the chickpeas are tender and the mixture is thick.\n10. Garnish with chopped coriander and mint. Serve hot.\n\n### Allergen Information\n- Contains coconut (if using coconut milk) and chickpeas.\n\n### How to Balance This Plate\n\nTo make this meal more balanced and nutritious, consider adding:\n\n**1. Fiber & micronutrients (vegetables)**  \n- A side of steamed green beans or spinach\n- A small bowl of mixed raw vegetables (carrot, cucumber, bell pepper)\n\n**2. Healthy fats**  \n- A drizzle of olive oil or a small handful of soaked almonds or walnuts\n- A spoonful of coconut yogurt (if dairy is acceptable)\n\n**3. Whole grains**  \n- A small portion of cooked brown rice or quinoa\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~350 kcal  \n* Protein: ~18 g  \n* Carbohydrates: ~45 g  \n* Sugars: ~2 g  \n* Fiber: ~8 g  \n* Fat: ~15 g  \n* Sodium: ~400 mg  \n\nThis dish is a great source of plant-based protein and can be easily balanced with whole grains and fresh vegetables for a complete, satisfying meal.",
+    "_status": "done",
+    "_tags": [
+      "incorrect dairy-free suggestion",
+      "incorrect cooking time",
+      "incorrect title"
+    ],
+    "_notes": "wrong name, chick peas - not chana dal.\nwrong dairy free substitution: \"1 cup coconut milk (or 1 cup milk + 1/2 cup coconut oil for a dairy-free option)\"\nwrong cooking time: needs to be pressure cooked for a few whistles or for much longer in a open pot.",
+    "_failure_modes": [
+      "Title or Dish Identity Mismatch",
+      "Allergen Information Errors",
+      "Wrong Cooking Method"
+    ]
+  },
+  {
+    "id": "32",
+    "query": "need a high-fiber andhra breakfast using ragi or oats, stovetop only, no refined flour",
+    "response": "## Ragi Oats Upma (High-Fiber Andhra Style)\n\nA high-fiber Andhra breakfast made with ragi (finger millet) and oats, cooked on the stovetop without refined flour. It's light, nutritious, and perfect for a wholesome morning start.\n\n### Ingredients\n- 1/2 cup ragi flour (soaked for 4\u20136 hours and drained)\n- 1/2 cup oats (soaked for 4\u20136 hours and drained)\n- 1/2 cup water (or as needed)\n- 1 small green chili, slit (optional for spice)\n- 1/2 tsp cumin seeds\n- 1/2 tsp mustard seeds\n- 1/2 tsp curry leaves\n- 1/2 tsp turmeric\n- 1/2 tsp salt\n- 1 tbsp ghee or oil (for cooking)\n- Fresh coriander leaves for garnish\n\n### Instructions\n1. In a pan, heat ghee or oil and add mustard seeds, cumin seeds, and curry leaves. Let them sizzle until they crackle.\n2. Add the green chili (if using) and saut\u00e9 for a few seconds.\n3. Add the soaked and drained ragi flour and oats. Mix well with the spices.\n4. Add a little water at a time, stirring continuously, until the mixture becomes thick and sticky, similar to upma.\n5. Cook on medium heat for 5\u20137 minutes, stirring occasionally, until the mixture is well cooked and golden in color.\n6. Garnish with fresh coriander leaves and serve hot.\n\n### Allergen Information\n- Contains: No common allergens (peanuts, soy, gluten, etc.) unless using processed oats or cross-contaminated ingredients.\n\n### How to Balance This Plate\n\nTo make this a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**  \n- A side of steamed green beans or boiled spinach  \n- A small bowl of raw cucumber and carrot salad with lemon  \n\n**2. Protein**  \n- A handful of roasted chana dal or a spoonful of paneer cubes (optional)  \n- A cup of low-fat yogurt or a spoonful of chia seeds  \n\n### Nutrition (Approx per serving, for 2 people)\n\n*Calories:* ~220 kcal  \n*Protein:* ~10 g  \n*Carbohydrates:* ~35 g  \n*Sugars:* ~2 g  \n*Fiber:* ~10 g  \n*Fat:* ~10 g  \n\nThis dish is high in fiber and provides a good balance of nutrients, making it an excellent choice for a healthy Andhra breakfast.",
+    "_status": "flag",
+    "_tags": [
+      "main ingredient not picked"
+    ],
+    "_notes": "ragi flour and oats cannot be cooked together, not a good combo.\noats need not be soaked for upma.\nThis would have worked well if only oats are used and they are not soaked.\nModel is not choosing one main ingredient when the user says A/B.",
+    "_failure_modes": [
+      "Main Ingredient Not Selected",
+      "Cultural or Authenticity Errors",
+      "Incompatible Ingredient Combination"
+    ]
+  },
+  {
+    "id": "33",
+    "query": "suggest a high-protein indian dinner with paneer or tofu, but keep it low oil and no cream",
+    "response": "## Paneer Tikka with Tofu & Spicy Tomato Gravy\n\nA high-protein, healthy Indian dinner featuring paneer or tofu, served with a spicy tomato gravy. This dish is low in oil and uses no cream, making it perfect for a balanced and satisfying meal.\n\n### Ingredients\n* 1 cup paneer or tofu, cubed (about 150\u2013200g)\n* 1 medium tomato, chopped\n* 1 green chili, finely chopped (adjust to taste)\n* 1 small onion, finely chopped\n* 1 tbsp ginger-garlic paste\n* 1 tsp cumin seeds\n* 1 tsp garam masala\n* 1 tsp coriander powder\n* 1/2 tsp turmeric\n* 1/2 tsp red chili powder (adjust to taste)\n* Salt, to taste\n* 1/2 cup water or vegetable stock\n* 1 tbsp lemon juice\n* 1/4 cup fresh coriander leaves, chopped\n* 1/4 cup roasted chickpeas or steamed green beans (for balance)\n\n### Instructions\n1. In a pan, heat a little oil (about 1 tbsp) and add cumin seeds. Let them sizzle for a few seconds.\n2. Add chopped onions and saut\u00e9 until golden brown, about 3\u20134 minutes.\n3. Add ginger-garlic paste and saut\u00e9 for 1 minute.\n4. Add chopped tomatoes, green chili, and salt. Cook until the tomatoes break down and the mixture becomes thick, about 5\u20137 minutes.\n5. Add coriander powder, garam masala, turmeric, and red chili powder. Mix well.\n6. Add 1/2 cup water or vegetable stock and let the gravy simmer for 5\u20137 minutes until it thickens slightly.\n7. Stir in lemon juice and chopped coriander leaves. Keep warm.\n8. In a separate pan, heat a little oil (about 1 tbsp) and cook paneer or tofu cubes in the remaining oil until lightly browned. Add to the tomato gravy and mix well.\n9. Serve hot with a side of roasted chickpeas or steamed green beans.\n\n### Allergen Information\n* Contains: Soy (tofu), Sesame (oil), Peanuts (not in this recipe, but may be in coriander or oil used)\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~420 kcal\n* Protein: ~35\u201340 g\n* Carbohydrates: ~30\u201335 g\n* Sugars: ~5\u20137 g\n* Fiber: ~5\u20137 g\n* Fat: ~15\u201318 g\n* Sodium: ~600\u2013800 mg (depending on salt used)\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Protein Boost**\n* A side of steamed spinach or kale with a sprinkle of nutritional yeast\n* A small bowl of chickpea curry or dal\n\n**2. Fiber & Micronutrients**\n* A small bowl of mixed vegetables (like carrots, cucumbers, and bell peppers) with a lemon-tahini dressing\n* A handful of roasted chickpeas or edamame\n\n**3. Healthy Fats**\n* A drizzle of olive oil or a spoonful of mashed avocado on the side\n* A small handful of unsalted almonds or walnuts\n\nEnjoy your high-protein, low-oil, and cream-free Indian dinner! \ud83e\udd58",
+    "_status": "done",
+    "_tags": [
+      "wrong allergen",
+      "missing ingredients",
+      "incorrect title",
+      "incorrect protein estimate"
+    ],
+    "_notes": "Allergen information shows Peanuts - it is not in the recipe, need not add. Says it may be in coriander - false statement. \"Peanuts (not in this recipe, but may be in coriander or oil used)\".\n\nDid not mention any oil in the ingredients, should have specified it.\n\nTitle has both main ingredients and the recipe tells to use one of them.\n\nPer serving it will be only half that amount of protein for paneer, and even less for tofu. ",
+    "_failure_modes": [
+      "Allergen Information Errors",
+      "Missing or Incomplete Steps",
+      "Title or Dish Identity Mismatch",
+      "Incorrect Nutrition Estimates"
+    ]
+  },
+  {
+    "id": "34",
+    "query": "looking for a south indian snack using peanuts or chana, quick stovetop recipe, no deep frying",
+    "response": "## Chana Poha with Peanut Chutney\n\nA quick and flavorful South Indian snack made with flattened rice and chana (split chickpeas), served with a creamy peanut chutney for a rich, nutty flavor.\n\n### Ingredients\n* 1/2 cup poha (flattened rice)\n* 1/2 cup chana (split chickpeas), soaked for 4\u20136 hours\n* 1/2 tsp mustard seeds\n* 1/2 tsp urad dal (split black gram), whole\n* 1 green chili, finely chopped\n* 1/2 tsp curry leaves\n* 1/2 tsp ginger paste\n* 1/2 tsp garlic paste\n* 1/2 tsp salt\n* 1/2 cup peanuts, roasted and chopped\n* 1/4 cup coriander leaves, chopped\n* 2\u20133 tbsp water\n* 1 tbsp oil or ghee\n\n### Instructions\n1. In a pan, heat oil and add mustard seeds, urad dal, green chili, and curry leaves. Saut\u00e9 until mustard seeds crackle.\n2. Add the soaked chana and 2\u20133 tbsp water. Cook on low heat for 10\u201315 minutes until the chana is tender.\n3. In a separate bowl, mix the roasted peanuts, coriander leaves, ginger paste, garlic paste, salt, and 1\u20132 tbsp water to form a smooth chutney.\n4. In a wide pan, heat a little oil and add the poha. Stir well to dry the poha, about 3\u20134 minutes.\n5. Add the cooked chana to the poha and mix well. Cook for another 2\u20133 minutes.\n6. Transfer the chana poha to a serving plate and top with the peanut chut, and garnish with a few coriander leaves.\n\n### Allergen Information\n* Contains peanuts and chickpeas. Not suitable for those with peanut or chickpea allergies.\n\n### How to Balance This Plate\n\nTo turn this into a complete, well-rounded meal, add:\n\n**1. Fiber & micronutrients (vegetables)**\n\n* A side of raw cucumber and carrot sticks with lemon\n* A handful of roasted gram (chana) for extra crunch\n\n**2. Healthy fats**\n\n* A tsp of ghee on top of the chana poha\n* A small handful of roasted almonds or cashews\n\n### Nutrition (Approx per serving)\n\n* Calories: ~350 kcal\n* Protein: ~12 g\n* Carbohydrates: ~45 g\n* Sugars: ~2 g\n* Fiber: ~8 g\n* Fat: ~15 g\n* Sodium: ~600 mg (depending on salt used)",
+    "_status": "done",
+    "_tags": [],
+    "_notes": "ginger and garlic paste uncooked in the chutney - never used like this.\npoha part works, chutney is a no.",
+    "_failure_modes": [
+      "Missing or Incomplete Steps",
+      "Cultural or Authenticity Errors"
+    ]
+  },
+  {
+    "id": "35",
+    "query": "any low-sugar andhra dinner with millets and vegetables? avoid white rice and sugar completely",
+    "response": "## Millet Rice with Mixed Vegetables\n\nA healthy, low-sugar Andhra dinner featuring millet instead of white rice, paired with a medley of colorful vegetables for a balanced, fiber-rich meal.\n\n### Ingredients\n* 1/2 cup jowar (sorghum) or ragi (finger millet), rinsed\n* 1/2 cup water or coconut water\n* 1 cup mixed vegetables (carrot, beans, peas, and bell pepper), chopped\n* 1 green chili, finely chopped\n* 1 tsp mustard seeds\n* 1 tsp curry leaves\n* 1 tsp coconut oil or ghee\n* Salt to taste\n* 1/2 tsp ginger paste\n* 1/2 tsp garlic paste\n* 1/2 tsp turmeric\n* 1/2 tsp garam masala (optional)\n\n### Instructions\n1. In a pot, add the millet and water. Bring to a boil, then reduce heat and let it simmer for 15\u201320 minutes or until the millet is tender and the water is absorbed.\n2. In a pan, heat the oil or ghee. Add mustard seeds and let them sizzle.\n3. Add curry leaves, green chili, ginger paste, and garlic paste. Saut\u00e9 for a few seconds.\n4. Add the mixed vegetables and turmeric. Cook for 5\u20137 minutes until the vegetables are tender.\n5. Add the cooked millet to the pan and mix well. Season with salt and garam masala (optional).\n6. Cook for another 5 minutes on low heat to allow the flavors to meld.\n7. Serve hot, ideally with a side of steamed green beans or a small bowl of yogurt.\n\n### Allergen Information\n* This recipe contains **coconut oil**, which may be a concern for some individuals. No peanuts or soy.\n\n### Notes\n* You can use any combination of millet (jowar, ragi, or bajra) depending on availability.\n* For extra protein, you can add a handful of roasted chana dal or split green gram to the dish.\n\n### Nutrition (Approx per serving for 2 people)\n\n* Calories: ~220 kcal\n* Protein: ~8 g\n* Carbohydrates: ~35 g\n* Sugars: ~2 g\n* Fiber: ~6 g\n* Fat: ~8 g\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Protein**\n* A small bowl of yogurt or a spoonful of soaked chana dal\n* A handful of roasted almonds or walnuts\n\n**2. Fiber & Micronutrients**\n* A side of steamed green beans or spinach\n* A small bowl of cucumber and carrot salad with lemon juice\n\n**3. Healthy Fats**\n* A drizzle of coconut oil or ghee on top of the dish\n* A few sprigs of fresh coriander or mint for garnish",
+    "_status": "done",
+    "_tags": [
+      "incorrect water measure",
+      "incorrect cooking time",
+      "garam masala everywhere"
+    ],
+    "_notes": "Incorrect water for 1/2 cup jowar (jonnalu). 1 cup soaked jowar needs 2.5-3 cups water.\ncooking time also needs to be more: 35-35 mins In pressure cooker.\nDoes not need garam masala.",
+    "_failure_modes": [
+      "Incorrect Measurements",
+      "Wrong Cooking Method",
+      "Cultural or Authenticity Errors"
+    ]
+  },
+  {
+    "id": "36",
+    "query": "need a high-protein one-pot indian lunch with rajma or chole, something simple and not too spicy",
+    "response": "## Rajma Chawal (Kidney Bean Rice)\n\nA simple, high-protein one-pot Indian meal that combines kidney beans (rajma) with rice for a balanced and satisfying lunch. This dish is easy to make, not too spicy, and packed with protein.\n\n### Ingredients\n* 1 cup kidney beans (rajma), soaked overnight (or 2 cups cooked)\n* 1 cup rice (basmati or any long grain rice)\n* 1 medium onion, finely chopped\n* 1 green chili, slit (optional)\n* 1 tomato, chopped\n* 1 tsp cumin seeds\n* 1 tsp ginger-garlic paste\n* 1 tsp turmeric\n* 1 tsp garam masala\n* Salt, to taste\n* 2\u20133 tbsp oil or ghee\n* 1/2 cup water (optional, for extra moisture)\n\n### Instructions\n1. In a large pot or pressure cooker, heat oil or ghee.\n2. Add cumin seeds, green chili, and ginger-garlic paste. Saut\u00e9 for a few seconds.\n3. Add chopped onion and saut\u00e9 until golden.\n4. Add chopped tomato and cook until softened.\n5. Add soaked kidney beans, turmeric, garam masala, and salt. Mix well.\n6. Add rice and mix thoroughly to coat the beans with the masala.\n7. Add 1/2 cup water (if needed) and cook on low heat for 15\u201320 minutes, or until the rice is cooked and the mixture is well combined.\n8. Cover and let it rest for 5 minutes before serving.\n\n### Allergen Information\n* No common allergens used in this recipe.\n\n### Nutrition (Approx per serving, for 2 people)\n\n* Calories: ~450 kcal\n* Protein: ~25 g\n* Carbohydrates: ~60 g\n* Sugars: ~5 g\n* Fiber: ~10 g\n* Fat: ~15 g\n\n### How to Balance This Plate\n\nTo make this meal even more balanced and nutritious, consider adding:\n\n**1. Fiber & micronutrients (vegetables)**\n\n* A side of steamed green beans or broccoli\n* A small bowl of cucumber and tomato salad with lemon juice\n\n**2. Healthy fats**\n\n* A drizzle of olive oil or a spoonful of roasted chana (chickpeas)\n* A handful of roasted almonds or walnuts\n\n**3. Additional protein (optional)**\n\n* A small serving of paneer cubes or tofu for extra protein\n\nThis meal is already high in protein, thanks to the kidney beans, and the rice adds carbohydrates for energy. Adding vegetables and healthy fats will ensure a well-rounded, balanced lunch.",
+    "_status": "done",
+    "_tags": [
+      "incorrect protein estimate",
+      "incorrect cooking time",
+      "incorrect water measure"
+    ],
+    "_notes": "Rice and Rajma are supposed to be cooked separately, not together.\nWrong water proportion is 1:2 for Rice. \nRajma to be pressure cooked for 5 to 6 whistles either separately or all together with the Masala.\nCoriander powder is missing. \nProtein is not going to be 25 g; that is an overestimate. May be around 15-18g.",
+    "_failure_modes": [
+      "Wrong Cooking Method",
+      "Incorrect Measurements",
+      "Incorrect Nutrition Estimates",
+      "Missing or Incomplete Steps"
+    ]
+  },
+  {
+    "id": "37",
+    "query": "any idea for a quick vegetarian wrap or roll I can pack for lunch? paneer or rajma based, Indian flavors, no chickpeas",
+    "response": "## Paneer and Rajma Stuffed Roti Wrap\n\nA quick and flavorful Indian wrap filled with spiced paneer and rajma (kidney beans), wrapped in a warm, soft roti for a satisfying lunch.\n\n### Ingredients\n* 1 cup cooked rajma (kidney beans), drained and mashed\n* 100 g paneer, cubed and boiled\n* 1 medium onion, finely chopped\n* 1 green chili, finely chopped (adjust to taste)\n* 1 tsp ginger-garlic paste\n* 1 tsp garam masala\n* 1 tsp turmeric\n* 1 tsp coriander powder\n* 1 tsp cumin powder\n* 1/2 tsp chili powder (adjust to taste)\n* Salt, to taste\n* 1 roti (whole wheat or plain)\n* 1 tbsp lemon juice\n* 1 tbsp chopped cilantro (optional)\n\n### Instructions\n1. In a bowl, combine the cooked rajma and mashed paneer.\n2. Add the chopped onion, green chili, ginger-garlic paste, garam masala, turmeric, coriander powder, cumin powder, chili powder, and salt. Mix well.\n3. Let the mixture rest for 5 minutes to allow the flavors to blend.\n4. Take a warm roti and spread the mixture evenly over it.\n5. Fold the roti in half, then roll it up tightly.\n6. Serve immediately or pack for lunch.\n\n### Allergen Information\n* No common allergens (peanuts, soy, dairy-free if using paneer substitute)\n\n### Notes\n* For a vegan version, you can use a store-bought or homemade paneer substitute.\n* You can also use a whole wheat tortilla or pita for a gluten-free option.\n\n### Nutrition (Approx per serving)\n\n* Calories: ~350 kcal\n* Protein: ~20 g\n* Carbohydrates: ~45 g\n* Sugars: ~2 g\n* Fiber: ~6 g\n* Fat: ~12 g\n* Sodium: ~300 mg\n\n### How to Balance This Plate\n\nTo make this wrap a complete, balanced meal, consider adding:\n\n**1. Fiber & Micronutrients (Vegetables)**\n* A side of fresh cucumber and carrot sticks with a lemon-tamarind chutney\n* A small bowl of mixed greens or spinach salad\n\n**2. Healthy Fats**\n* A small handful of roasted almonds or walnuts\n* A drizzle of olive oil or avocado spread\n\n**3. Extra Protein (Optional)**\n* A boiled egg or a spoonful of chana dal (if not allergic)\n\nEnjoy your quick, flavorful, and balanced vegetarian wrap! \ud83e\udd6a",
+    "_status": "review",
+    "_tags": [
+      "main ingredient not picked",
+      "assumed ready-made ingredients"
+    ],
+    "_notes": "usually paneer and rajma are had separately, not in one dish. The model failed to pick the main ingredient.",
+    "_failure_modes": [
+      "Main Ingredient Not Selected"
+    ]
+  }
+]
